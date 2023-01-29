@@ -206,6 +206,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  parse_block_html: #true
 
 
 # Sass/SCSS
@@ -278,13 +279,12 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-
   - scope:
       path: ""
-      type: home
+      type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: 
       read_time: true
       comments: # true
       share: true

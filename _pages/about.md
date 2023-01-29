@@ -3,6 +3,8 @@ title: "A propos"
 permalink: /about/
 layout: single
 author_profile: true
+author : cog
+
 header:
   image: /assets/images/CouvHelloAsso.jpg
 ---

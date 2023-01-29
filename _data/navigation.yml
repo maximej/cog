@@ -1,12 +1,32 @@
 # main links
 main:
   - title: "Art ludique"
-    url: /art-ludique/
+    url: /categories/ludique/
   - title: "Art numérique"
-    url: /art-numerique/
+    url: /categories/numerique/
   - title: "Ressources"
     url: /ressources/
   - title: "Articles"
-    url: /articles/
+    url: /tags/
   - title: "A propos"
     url: /about/
+
+
+boucaniers_nav:
+  - title: "Parent Link 1"
+    url: /parent-1-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+
+  - title: "Parent Link 2"
+    url: /parent-2-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+      - title: "Child Link 3"
+        url: /child-3-page-url/
