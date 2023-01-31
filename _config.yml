@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Le C.O.G"
 description              : "Association d'art ludique et numérique."
 url                      : "https://maximej.github.io"
-baseurl                  : "/cog"
+baseurl                  : "/"
 repository               : "maximej/cog"
 teaser                   : "/assets/img/Banniere.jpg"
 logo                     : "/assets/img/COG_Logo_100.jpg"
