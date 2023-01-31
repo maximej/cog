@@ -45,11 +45,11 @@ Zip Bam Plouf !
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/fexzZXL8hu6cAPsFRM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fexzZXL8hu6cAPsFRM">Papertoys en feu</a></p>
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/toonParty/toon7.jpg" alt="">
+<img src="/assets/images/toonParty/toon7.jpg" alt="">
 
  Nous avons pu jouer des perso aussi fous que : San Goku, Mickey, Will E. Coyote, Edward Elric, Bébé Erman, Rick Sanchez, La Linea, Peter Pan, Dora, Hei Hatsume, Zig, Capitaine Haddock, Sharko, Bibi Blocksberg, Inspecteur Gadget, Homer Simpson, Garfield, Jiraya, Albert Colvert, Bart Simpson, Apple Jack, Satanas, Link, Little Nemo, Dead Pool, Obelix, Calimero, Grincheux, Don Lope, Dexter, Scooby-Doo, Donald Duck, Taz, Naruto ! Merci !
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/toonParty/fullToon.jpg" alt="">
+<img src="/assets/images/toonParty/fullToon.jpg" alt="">
 
 ## Les parties en festival
 
@@ -58,22 +58,22 @@ Nous avons pu jouer ensemble à Toon Party, lors d'une présentation aux Imagina
 <figure class="half">
  
   <a href="https://linktr.ee/toonparty">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/toonParty/toon5.jpg"></a>
+  <img src="/assets/images/toonParty/toon5.jpg"></a>
  
   <a href="https://linktr.ee/toonparty">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/toonParty/toon1.jpg"></a>
+  <img src="/assets/images/toonParty/toon1.jpg"></a>
 
   <a href="https://linktr.ee/toonparty">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/toonParty/toon2.jpeg"></a>
+  <img src="/assets/images/toonParty/toon2.jpeg"></a>
 
   <a href="https://linktr.ee/toonparty">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/toonParty/toon4.jpg"></a>
+  <img src="/assets/images/toonParty/toon4.jpg"></a>
 
   <a href="https://linktr.ee/toonparty">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/toonParty/toon6.jpg"></a>
+  <img src="/assets/images/toonParty/toon6.jpg"></a>
 
   <a href="https://linktr.ee/toonparty">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/toonParty/toon8.png"></a>
+  <img src="/assets/images/toonParty/toon8.png"></a>
 
 
   <figcaption><h1>Toon Party en festival en 2021 et 2022.</h1></figcaption>

@@ -66,7 +66,7 @@ Indices et 81 cartes Îles. 10 Feuilles bateaux. 29 cartes Boucaniers et 6 affra
 Les bateaux possèdent trois attributs : les voiles (la distance maximale de déplacement), des canons (les points de coque arrachés à l’ennemi à chaque tir), une coque (le nombre de points de vie face aux canons) et un équipage (nombre maximum de boucaniers embarqués).
 Cotre , Chébec, Ketch, Caravelle, Goélette, Corvette, Lougre, Frégate, Galion, Jonque
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Boucaniers.png" alt="">
+<img src="/assets/images/Boucaniers.png" alt="">
 
 
 

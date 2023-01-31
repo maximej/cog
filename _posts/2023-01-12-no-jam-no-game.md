@@ -103,7 +103,7 @@ Cette vidéo présente plusieurs théories de la narration et technique d'écrit
 https://fr.wikipedia.org/wiki/Il_%C3%A9tait_une_fois%E2%80%A6_(jeu)
 ### b/Le voyage du héros 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/nojamNogame/scenar.webp" alt="">
+<img src="/assets/images/nojamNogame/scenar.webp" alt="">
 
 
 <a href="https://apprendre-le-scenario.com/les-12-etapes-du-voyage-du-heros-de-joseph-campbell/">Image par : **Apprendre le Scénario**</a>

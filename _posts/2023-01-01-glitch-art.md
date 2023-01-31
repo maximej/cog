@@ -24,7 +24,7 @@ Nous nous sommes tous déjà retrouvés face à une image illisible sur son écr
 
 C’est à partir de ce dernier constat qu’est né le « glitch art » : une démarche consistant à altérer les données d’un fichier image (ou vidéo), pour générer des curiosités visuelles. 
 
-<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/l3q2DjYkmGHJURUha" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="{{ site.url }}{{ site.baseurl }}/numérique/ludique/analog-digital/">
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/l3q2DjYkmGHJURUha" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="/numérique/ludique/analog-digital/">
 La tête de lecture du magnetoscope fait apparaitre du bruit magnetique sur l'image.</a></p>
 
 ## Le glitch : le dernier mouvement artistique ?
@@ -53,7 +53,7 @@ Le glitch art est donc un art dans la sérendipité. Par les découvertes visuel
 
 **Ici, le glitch révèle-t-il une aura ? La disparition inéluctable du corps ? La défaillance de la mémoire ?**
 
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/glitch/Mathieu-St-Pierre_web20.jpg "Pautoportrait"){: .align-center style="width: 560;"}
+![styled-image](/assets/images/glitch/Mathieu-St-Pierre_web20.jpg "Pautoportrait"){: .align-center style="width: 560;"}
 *© [Mathieu St-Pierre](https://www.mathieustpierre.com/), autoportrait, 2013*
 {: .align-caption}
 

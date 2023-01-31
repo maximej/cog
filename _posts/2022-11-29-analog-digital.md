@@ -32,7 +32,7 @@ Analog video instalation "Dirty64" by Lux Felicis
 
 <iframe src="https://www.instagram.com/luxfelicis/embed" width="560" height="580" frameborder="0"> </iframe>
 
-<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/l3q2DjYkmGHJURUha" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="{{ site.url }}{{ site.baseurl }}/numérique/glitch-art/">
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/l3q2DjYkmGHJURUha" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="/numérique/glitch-art/">
 La tête de lecture du magnetoscope fait apparaitre du bruit magnetique sur l'image.</a></p>
 
 [Dirty64 Retrogaming](https://www.youtube.com/playlist?list=PLsg_cg9K_TfUx74HVaGYrb2ktj8yUFPQx)
@@ -42,7 +42,7 @@ Karl Klomp is an audiovisual designer who has created a number of cool gadgets f
 
 [Techno Video]({{ site.url }}{{ site.baseurl }}/assets/documents/techno video.pdf){: .btn .btn--info}
 
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/schema/Dirty64_schema.jpg "DirtyMixer"){: .align-center style="width: 560;"}
+![styled-image](/assets/images/schema/Dirty64_schema.jpg "DirtyMixer"){: .align-center style="width: 560;"}
 *Schéma du Dirty Mixer de [Karl Klomp](https://www.karlklomp.nl)*
 {: .align-caption}
 

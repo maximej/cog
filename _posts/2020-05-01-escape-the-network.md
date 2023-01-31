@@ -117,17 +117,17 @@ En 1967, trois plans, du MIT, du NPL et de RAND corp. prévoient de relier des r
 
 
 En 1972 alors que plusieurs toiles séparées se dessinent, on pense à les relier entre elles, à faire de **l'inter – netting**. 
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/internet/loadimg-2.jpg" alt="">
+    <img src="/assets/images/internet/loadimg-2.jpg" alt="">
 
 
 On met aussi en place l'envoi de messages uniquement sur les ordinateurs, transmis au travers du réseau, le courrier électronique est né.
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/internet/loadimg-6.jpg" alt="">
+    <img src="/assets/images/internet/loadimg-6.jpg" alt="">
 
 En France le projet Cyclade à pour but de partager entre différents acteurs économiques chacun des réseaux dédiés (Havas, AFP, Drouot). 
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/internet/loadimg.jpg" alt="">
+    <img src="/assets/images/internet/loadimg.jpg" alt="">
 
 Ces recherches inspirées d'ARPANET ne se verront pas réalisées directement mais serviront aux réseaux américain à élaborer les premiers protocoles d'échanges. 
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/internet/loadimg-3.jpg" alt="">
+    <img src="/assets/images/internet/loadimg-3.jpg" alt="">
 
 
 </p>
@@ -154,7 +154,7 @@ Ces recherches inspirées d'ARPANET ne se verront pas réalisées directement ma
 
 </div>
 <p>En 1974 la version initiale de TCP est lancée, en 1983, il devient l'unique protocole d'ARPANET. Les réseaux indépendants dans les universités, certaines parties de l'administration américaine et des entreprises se relient à ARPANET.  
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/internet/Arpanet_logical_map,_march_1977.png" alt="">
+    <img src="/assets/images/internet/Arpanet_logical_map,_march_1977.png" alt="">
 
 </p>
   </div>
@@ -230,12 +230,12 @@ En 1983, **les militaires sortent du réseau** qu'ils avaient initialement cré�
 
   <p markdown="1">De 84 à 86 la NSF se relie au réseau et recherche quel sera l'avenir de l'ARPANET. 
   
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/internet/771px-InetCirca85.jpg" alt="">
+<img src="/assets/images/internet/771px-InetCirca85.jpg" alt="">
 
 
   La NSF crée en 1986 la dorsale Internet NSFN qui raccorde un grand nombre de superordinateurs au réseau. 
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/internet/800px-NSFNET-backbone-T3.png" alt="">
+  <img src="/assets/images/internet/800px-NSFNET-backbone-T3.png" alt="">
 
   
   De cette fusion né le terme **Internet**, nouveau réseau mondial étendu fonctionnant selon le protocole TCP / IP, qui suscite un intérêt grandissant dans tout les pays. Un réseau européen se forme, qui relie le CERN, et le Usenet européen liant initialement des universités et des scientifiques. ARPA se lie à l'Australie et au Japon avec JUNET en 1989, Singapour (TECHNET) et la Thaïlande (UUNET) en 90 et 92. 
@@ -254,7 +254,7 @@ En 1983, **les militaires sortent du réseau** qu'ils avaient initialement cré�
  </div>
      <p>Le réseau existe pour tous, et sa marche est inéluctable. Tout change quand dans les année 90 ce sont les gouvernements qui commencent à construire leur propres réseaux nationaux, puis régionaux. Les universités et les scientifiques perdent le pouvoir et commencent à utiliser les infrastructures publiques.  
 
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/internet/485px-Number_of_internet_hosts.svg.png" alt="">
+  <img src="/assets/images/internet/485px-Number_of_internet_hosts.svg.png" alt="">
 
 
 </p>

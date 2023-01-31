@@ -25,7 +25,7 @@ Une exposition d'art ludique et numérique sera accessible le vendredi après-mi
 
 [Rejoins nous sur Discord](https://discord.gg/mHatEsE3Hw){: .btn .btn--info}
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/AfficheGameJam.jpg" alt="">
+<img src="/assets/images/AfficheGameJam.jpg" alt="">
 
 Nous tenons à ouvrir la jam à tous les curieux et feront en sorte d'accompagner les participants qui le voudraient. Nous souhaitons que des groupes se forment sur place à la suite de speed dating créatifs proposés tout au long du week-end, mais il est possible de venir avec une équipe déjà prête. Ce site est ouvert aux jammeurs qui voudraient présenter des jeux insolites, originaux ou artisanaux, comme un livre interactif, une installation immersive, un jeu de plateau, un jeu de réalité alternative, des vidéos à choix multiples, etc…
 
