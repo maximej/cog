@@ -32,7 +32,7 @@ Le glitch art est un mouvement artistique, comparable à l’action painting de 
 
 Or, les manières de glitcher sont infinies et dépendent autant du matériel (ordinateur, télévision, etc.) que du logiciel utilisés. Il suffit notamment d’ouvrir d’éditer un .jpg avec un logiciel non adapté à la lecture d’images. Certains réussissent même à produire des œuvres synesthésiques, en utilisant des logiciels destinés au traitement audio.
 
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/glitch/paris-echo.jpg "ParisEcho"){: .align-center style="width: 560;"}
+![styled-image](/assets/images/glitch/paris-echo.jpg "ParisEcho"){: .align-center style="width: 560;"}
 *© Masuma Ahuja & Denise Lu pour le [Washington Post](https://www.washingtonpost.com/news/innovations/wp/2014/07/23/what-paris-looks-like-with-an-echo/), 2014*
 {: .align-caption}
 
@@ -53,13 +53,13 @@ Le glitch art est donc un art dans la sérendipité. Par les découvertes visuel
 
 **Ici, le glitch révèle-t-il une aura ? La disparition inéluctable du corps ? La défaillance de la mémoire ?**
 
-![styled-image](/assets/images/glitch/Mathieu-St-Pierre_web20.jpg "Pautoportrait"){: .align-center style="width: 560;"}
+![styled-image](/assets/images/glitch/Mathieu-St-Pierre_web20.jpg "Autoportrait"){: .align-center style="width: 560;"}
 *© [Mathieu St-Pierre](https://www.mathieustpierre.com/), autoportrait, 2013*
 {: .align-caption}
 
 **Et là, le glitch rappelle littéralement la fonte des glaces.**
 
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/glitch/giacomo-carmagnola-pixelated-photography-1.jpg "all ice on me"){: .align-center style="width: 560;"}
+![styled-image](/assets/images/glitch/giacomo-carmagnola-pixelated-photography-1.jpg "all ice on me"){: .align-center style="width: 560;"}
 *© Giacomo Carmagnola, All ice on me, 2014*
 {: .align-caption}
 

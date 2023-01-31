@@ -109,6 +109,7 @@ author:
   bio              : "alias Lux Felicis"
   location         : "Faille interplanaire"
   email            : "maxime.j.richard@gmail.com"
+  home             : "www.lecog.fr"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

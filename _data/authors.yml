@@ -6,6 +6,7 @@ Max :
   bio              : "alias Lux Felicis"
   location         : "Faille interplanaire"
   email            : "maxime.j.richard@gmail.com"
+  home             : "/"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -30,6 +31,7 @@ Rozetta :
   name        : "Rozetta"
   bio         : "Rozetta est un électron libre, artiste visuelle et numérique touche à tout, autodidacte née en 1991, vivant à Paris mais débarquée d’Uranus. Elle est diplômée de Sciences Po Paris en sciences humaines et communication."
   avatar      : "/assets/img/ImgRoz.jpg"
+  home        : "/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -55,6 +57,7 @@ Vinz :
   name        : "Vincent Tellier"
   bio         : "L'animation tradigitale et le piano sont ses deux armes.  Au service de l'œil et de l'oreille, il tire les racines d'une idée pour que sa vision sorte de l'ombre."
   avatar      : "/assets/img/ImgVinz.png"
+  home        : "/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -74,6 +77,7 @@ Auri0n :
   name        : "Auri0n"
   bio         : "alias ElectricD&Vice.<br> Freedom, Psychedelia, Awesomeness, Mysticism and Madness."
   avatar      : "/assets/img/ImgAur.jpg"
+  home        : "/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -93,6 +97,7 @@ cog :
   name        : "Le Cercle de l'Orbite Galactique"
   bio         : "association d'art ludique et numérique"
   avatar      : "/assets/img/COG_Logo_1000.jpg"
+  home        : "/"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
