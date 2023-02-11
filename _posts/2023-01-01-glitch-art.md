@@ -41,7 +41,6 @@ Le glitch art est né et a grandi avec le numérique. Il évolue au sein ou en p
 <iframe src="https://www.instagram.com/mathieuglitch/embed" width="560" height="580" frameborder="0"> </iframe>
 
 Le glitch art est le dernier mouvement artistique, digne des pratiques du web 2.0 : collaboratives et open source. Le glitch art est nourri par une communauté active, présente sur les réseaux sociaux. Les plus geek des glitch artistes vont jusqu’à coder leur propre interface de glitching et le partager gratuitement, afin que d’autres se l’approprient et intègrent leurs améliorations. 
-
 ## Glitch art, subversivité et sérendipité
 
 Le glitch art consiste à détruire une image pour en créer une nouvelle. Cette contradiction a du sens : à l’heure de la maîtrise ultime de l’image grâce aux logiciels comme Photoshop, y intégrer un bug, c’est une façon de rappeler que l’image n’est pas réelle, et que le beau réside aussi dans l’imperfection. 
@@ -71,9 +70,7 @@ Désormais, les glitchs se concrétisent également dans le réel. Ils se retrou
 
 Alors, qu’attendez-vous pour [Glitcher](https://archive.org/details/KID_PIX_DOS){: .btn .btn--warning} ?
 
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Gore_XV/status/1532045864834895872?s=20&t=54mt4gGTdXCgxuz-gltDkw">Gore XV</a></blockquote>
-
 
  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
 

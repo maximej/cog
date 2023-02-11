@@ -40,7 +40,7 @@ La tête de lecture du magnetoscope fait apparaitre du bruit magnetique sur l'im
 
 Karl Klomp is an audiovisual designer who has created a number of cool gadgets for live performance visuals. One of these is dubbed the Dirty Video Mixer. This device takes in two composite visual inputs and mixes them together to create trippy and glitchy effects. I had never seen anything like this before so I decided to make one for myself!
 
-[Techno Video]({{ site.url }}{{ site.baseurl }}/assets/documents/techno video.pdf){: .btn .btn--info}
+[Techno Video](/assets/documents/techno video.pdf){: .btn .btn--info}
 
 ![styled-image](/assets/images/schema/Dirty64_schema.jpg "DirtyMixer"){: .align-center style="width: 560;"}
 *Schéma du Dirty Mixer de [Karl Klomp](https://www.karlklomp.nl)*

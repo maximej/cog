@@ -19,8 +19,7 @@ Le C.O.G veut porter la vision du jeu comme art mettant l’humain au centre de 
 
 Nous voulons fédérer les artistes, éditer les créateurs, organiser des événements, diffuser des réalisations, et promouvoir le patrimoine dans le domaine culturel et social des arts ludiques, numériques, musicaux, visuels, vidéo, littéraires et plastiques. 
 
-L’association a pour vocation d’être à but non-lucratif,
-d’intérêt public, et de faire la promotion de **la pratique artistique, ludique et numérique** par des
+L’association a pour vocation faire la promotion de **la pratique artistique, ludique et numérique** par des
 événements ouverts et créateurs de lien social.
 
 [Tous les liens](https://linktr.ee/cogalactique){: .btn .btn--info}

@@ -40,7 +40,7 @@ Nécessite steam, permet d’exporter un menu, dispose d'un moteur 3d, gratuit
 
 ### b/Le mini game engine [Bitsy](https://ledoux.itch.io/bitsy)
 
-[Bitsy](https://ledoux.itch.io/bitsy) : un game engine intuitif, qui peut servir à faire des jams. Il existe la [Bitsy Rat Jam](https://itch.io/jam/rat-bitsy) qui as lieu tout les mois et à laquelle on ne peut participer que avec Bitsy.
+[Bitsy](https://ledoux.itch.io/bitsy) : un game engine intuitif, qui peut servir à faire des jams. Il existe la [Bitsy Rat Jam](https://itch.io/jam/rat-bitsy) qui a lieu tout les mois et à laquelle on ne peut participer que avec Bitsy.
 ### c/Test de jeux Bitsy 
 
 Les meilleurs jeux avec Bitsy: 
@@ -68,7 +68,7 @@ Outil d'écriture de fiction interactive, à télécharger ou à utiliser dans l
 
 [Godot](https://godotengine.org/)
 
-[Game Maker](https://gamemaker.io/fr)
+[Game Maker](https://gamemaker.io/fr): [Tutos Game maker](https://www.youtube.com/watch?v=aB1W3k4hJeY)
 
 ### f/Plus de ressources de Game Engine à explorer :
 
@@ -202,6 +202,7 @@ Free Graphic Assets :
 [Open Game Art](http://OpenGameArt.org),
 [CG Texture](http://www.cgtextures.com/),
 [SketchFab](https://sketchfab.com)
+[TurboSquid Free 3dModels](https://www.turbosquid.com/Search/3D-Models/free)
 
 ### d/Des outils de création de musique pour jammer :
 

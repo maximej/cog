@@ -15,6 +15,8 @@ toc_icon: "cog"
 
 author_profile: true
 author : Max
+header:
+  teaser: /assets/images/escape.jpg
 
 ---
 

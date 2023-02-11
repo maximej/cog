@@ -137,6 +137,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100087603523761"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://www.instagram.com/cogalactique/"
     - label: "Youtube"
       icon: "fab fa-brands fa-youtube"
       url: "https://www.youtube.com/@lecercledelorbitegalactique"
@@ -218,7 +221,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 16 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -290,6 +293,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
 
 
 
