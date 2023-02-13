@@ -6,6 +6,7 @@ categories:
 tags:
   - Numérique
   - Deep Web
+  - Histoire
 header:
   #teaser: /assets/images/DW_INFO.jpg
   #image : /assets/images/DW_INFO.jpg
@@ -91,6 +92,8 @@ En 1967, trois plans, du MIT, du NPL et de RAND corp. prévoient de relier des r
 
 </div>
 <p markdown="1">En 1969 le premier réseau est construit, **ARPANET**, d'abord un nœud, puis l'autre.</p>
+    <img src="/assets/images/internet/internet-1969.jpg" alt="">
+
 </div>
 
 

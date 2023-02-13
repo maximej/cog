@@ -23,9 +23,13 @@ author : Auri0n
 
 Livestream of Nintendo 64 with material feeback and some homemade video mixer.
 
-Music : Analog Digital, mix by [Auri0n](https://soundcloud.com/auri0n)
+Music : Analog Digital, mix by [Auri0n](https://soundcloud.com/auri0n){: .btn .btn--warning}
 
 ISS Soccer - Goldeneye - Perfect Dark - Mario Kart
+
+[Dirty 64 Retrogamming Playlist](https://www.youtube.com/playlist?list=PLsg_cg9K_TfUx74HVaGYrb2ktj8yUFPQx) - [Super Glitchendo Retrogamming Playlist](https://www.youtube.com/playlist?list=PLsg_cg9K_TfW4l99hidxgcy1vLcLfemsH)
+
+Not Bug : [VJ Pack CRT Glitch](https://www.vjloops.com/stock-pack/not-bug--crt-tv-glitches-223736.html){: .btn .btn--warning}
 
 ## Dirty 64
 Analog video instalation "Dirty64" by Lux Felicis
@@ -53,3 +57,5 @@ Cracking the Code - Psytrance by Auri0n & Psychedelic VJing by Lux Felicis Live
 Follow the [white rabbit](https://www.youtube.com/watch?v=enOvHp_uv4U){: .btn .btn--warning}
 
 <div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/jrp2fq0CXoN3iclsep" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/disney-alice-wonderland-jrp2fq0CXoN3iclsep">Alice aux pays des merveilles</a></p>
+
+

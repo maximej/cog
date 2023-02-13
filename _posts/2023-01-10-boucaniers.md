@@ -12,6 +12,35 @@ header:
   teaser: /assets/images/Boucaniers.png
 
 ---
+L’appétit du joueur rarement ne s’éveille.  
+Serait-ce ainsi de notre part bien orgueilleux  
+Que de vous proposer ce curieux nouveau jeu.  
+Cependant le voilà, aspirante merveille.   
+  
+Son nom est “Boucaniers”. Deux à cinq matelots  
+Manœuvrant leurs navires, cherchent un trésor  
+Enfoui dans l’une des neuf îles du plateau.   
+Au début du tour, chacun dans l’ombre élabore  
+  
+Le cap que son bâtiment devra emprunter  
+Et pour ensuite, ensemble en même temps jouer.  
+Commerce, enquêtes, canonnades et abordage,  
+Recruter ou bien sacrifier son équipage.  
+  
+On sillonne l’archipel, où l’océan gronde.  
+Novices plongeront dans le pirate monde.  
+Les plus aguerris avec furie se noieront  
+Dans l’abysse des infinies combinaisons.  
+  
+Pour la stratégie, il n’y a rien de pareil.  
+C’est comme un coquillage qu’on tend à l’oreille.  
+Le large appelle, un bruissement, vous l’entendez ?  
+Alors, partez maintenant vers les hautes mers !  
+  
+Découvrez cette présentation plus entière,\
+En [deux minutes cinquante quatre enjouées](https://vimeo.com/482721145)\
+Et si vos yeux de tous les détails sont curieux\
+Voici avec ce lien les [règles de ce jeu](https://drive.google.com/file/d/15Bbf5UjPHZma1LaqsoIpHrHpwo1w2Dk3/view?usp=sharing)
 
 ## “Boucaniers, Le magot d’Armand le baratineur"
 *un jeu de Vincent Tellier & Thierry Durand*
