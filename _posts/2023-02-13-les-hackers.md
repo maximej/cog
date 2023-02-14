@@ -21,7 +21,7 @@ toc_label: "Les Hackers"
 toc_icon: "cog"
 ---
 
-*Le "hack" est un terme obscur dont les sens dérivés s’étendent telles des racines dans les profondeurs de l’informatique. Il dérive d'un verbe qui est apparu pour la première fois en anglais vers 1200, signifiant "couper avec des coups violents d'une manière irrégulière ou aléatoire", en français on pourrait dire “hacher”.*
+*Le "hack" est un terme obscur dont les sens s’étendent telles des racines dans les profondeurs de l’informatique. Il dérive d'un verbe qui est apparu pour la première fois en anglais vers 1200, signifiant "couper avec des coups violents d'une manière irrégulière ou aléatoire", en français on pourrait dire “hacher”.*
 
 La popularisation du terme “hacker” l'a laissé s'entourer de mauvaises augures. Les problèmes ont commencé avec des arrestations très médiatisées d'adolescents qui s'aventuraient électroniquement sur des terrains numériques interdits, comme les systèmes informatiques gouvernementaux et ce mot est rapidement devenu synonyme de pirate des systèmes de sécurité. Mais en réalité, il est plus proche d'**une culture très astucieuse de la bidouille, de la débrouille, du bricolage,** que certains ont mal employé.
 
@@ -53,17 +53,17 @@ Le télégraphe optique est un moyen de communication visuel par sémaphore inst
 *Le système sémaphorique du télégraphe optique*
 {: .align-caption}
 
-En 1834 en France, les frères jumeaux François et Louis Blanc spéculent régulièrement à la Bourse de Bordeaux avec les gains que leur rapportait leur habileté aux cartes. Ils multiplient alors les tentatives d'accéder en priorité à la clôture de la rente à 3 %, le titre phare de la Bourse de Paris. Ce cours reste transmis par la poste en trois jours, alors que le réseau Chappe peut relier Paris et Bordeaux en quelques heures.
+En 1834 en France, les frères jumeaux François et Louis Blanc spéculent régulièrement à la Bourse de Bordeaux avec les gains que leur rapportait leur habileté aux cartes. Ils multiplient alors les tentatives d'accéder en priorité à la clôture de la rente à 3 %, le titre phare de la Bourse de Paris. Ce cours reste **transmis par la poste en trois jours, alors que le réseau Chappe peut relier Paris et Bordeaux en quelques heures**.
 
 ![styled-image](/assets/images/hacking/Reseau_chappe.png "Reseau Chappe"){: .align-center style="width: 560;"}
 *Le réseau du télégraphe optique*
 {: .align-caption}
 
-Les frères Blanc entreprennent de détourner le télégraphe optique. Ils élaborent leur plan avec l'aide d'un ancien directeur du télégraphe de Lyon, Pierre Renaud, qui les informe la possibilité de glisser un message caché dans les dépêches. Ils introduisent un signal lors de la phase de correction, qui se retrouve ensuite retransmis en cascade d'une tour Chappe à l'autre jusqu'à Bordeaux. Les frères Blanc parviennent à conserver les sommes accumulées en deux ans de spéculations fructueuses. 
+Les frères Blanc entreprennent de détourner le télégraphe optique. Ils élaborent leur plan avec l'aide d'un ancien directeur du télégraphe de Lyon, Pierre Renaud, qui les informe la possibilité de glisser un message caché dans les dépêches. **Ils introduisent un signal lors de la phase de correction**, qui se retrouve ensuite retransmis en cascade d'une tour Chappe à l'autre jusqu'à Bordeaux. Les frères Blanc parviennent à conserver les sommes accumulées en deux ans de spéculations fructueuses. 
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xUn3CftPBajoflzROU" width="100%" height="100%" style="position:absolute" frameBorder="0"></iframe></div>
 
-Ils poursuivent leurs activités dans des casinos à l'étranger. Puis, après le décès de son frère Louis,[François](https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Blanc) se fait connaître comme le [« magicien de Homburg »] et acquiert une fortune considérable qui lui permet de fonder le quartier "Monte-Carlo" et d'ouvrir le casino de Monaco. Il est inhumé depuis 1877 au cimetière du Père-Lachaise (56e division).
+Ils poursuivent leurs activités dans des casinos à l'étranger. Puis, après le décès de son frère Louis,[François](https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Blanc) se fait connaître comme le **« magicien de Homburg »** et acquiert une fortune considérable qui lui permet de fonder le quartier Monte Carlo et d'ouvrir le casino de Monaco. Il est inhumé depuis 1877 au cimetière du Père-Lachaise (56e division).
 
 ![styled-image](/assets/images/hacking/Monte_Carlo_Casino_general_plan.jpg "Garnier"){: .align-center style="width: 560;"}
 *Croquis d'architecture du Casino de Monte Carlo, Charles Garnier*
@@ -81,9 +81,9 @@ En 1903 les recherches se font sur les "ondes hertziennes" qui pouvaient être d
 *Henry Jamyn Brooks, A Friday Evening Discourse at the Royal Institution; Sir James Dewar on Liquid Hydrogen, 1904*
 {: .align-caption}
 
-Lors d’une démonstration de cette technologie par Marconi et Fleming à la Royal Institution en juin 1903, il se passa quelque chose d'inattendu. Quelques minutes avant que Fleming ne reçoive les messages en morse de Marconi en provenance des Cornouailles, le silence est rompu par un tic-tac rythmique provenant de la lanterne de projection en laiton du théâtre, utilisée pour afficher les diapositives du conférencier. Pour une oreille non avertie, ce bruit ressemble à celui d'un projecteur en panne. Mais Arthur Blok, l'assistant de Fleming, reconnaît rapidement le tic-tac d'une main humaine tapant un message en morse. Blok pense que quelqu'un envoie de puissantes impulsions sans fil dans le théâtre et qu'elles sont suffisamment fortes pour interférer avec la lampe à décharge à arc électrique du projecteur.
+Lors d’une démonstration de cette technologie par Marconi et Fleming à la Royal Institution en juin 1903, il se passa quelque chose d'inattendu. Quelques minutes avant que Fleming ne reçoive les messages en morse de Marconi en provenance des Cornouailles, le silence est rompu par un tic-tac rythmique de message en morse provenant de la lanterne de projection en laiton du théâtre, utilisée pour afficher les diapositives du conférencier. L'assistant de Fleming, pense que quelqu'un envoie de puissantes impulsions sans fil dans le théâtre et qu'elles sont suffisamment fortes pour interférer avec la lampe à décharge à arc électrique du projecteur.
 
-Décodant mentalement la missive, Blok réalisa qu'elle épelait un mot facétieux, encore et encore : "Rats". Un coup d'œil à la sortie de l'imprimante morse voisine le confirme. Le morse entrant devient alors plus personnel, se moquant de Marconi : "Il y avait un jeune homme d'Italie, qui trompait le public assez joliment ". D'autres vers de Shakespeare ont suivi.
+Décodant mentalement la missive en morse, Blok réalisa qu'elle épelait un mot facétieux, encore et encore : "Rats". Un coup d'œil à la sortie de l'imprimante morse voisine le confirme. Le morse entrant devient alors plus personnel, se moquant de Marconi : **"Il y avait un jeune homme d'Italie, qui trompait le public assez joliment "**. D'autres vers de Shakespeare ont suivi.
 
 ![styled-image](/assets/images/hacking/Marconi_wireless_school_1910s.jpg "Marconi School"){: .align-center "}
 *École de radio Marconi, New York, États-Unis. Des étudiants vers 1912 s'entraînant à la télégraphie sans fil.*
@@ -103,7 +103,7 @@ Il s’agissait de Nevil Maskelyne, inventeur, espion, issu d’une [dynastie de
 
 ## Première apparition du terme hacker
 
-C'est au M.I.T. que le mot "hack" a commencé à signifier “s'occuper des machines”. Le compte-rendu d'une réunion d'avril 1955 du Tech Model Railroad Club (TMRC), un club de modélisme ferroviaire des étudiants du Massachusetts Institute of Technology, que "M. Eccles demande que toute personne travaillant ou piratant ("hacking") le système électrique coupe le courant pour éviter de faire sauter les fusibles.”
+C'est au M.I.T. que le mot "hack" a commencé à signifier **“s'occuper des machines”**. Il est dans le compte-rendu d'une réunion d'avril 1955 du **Tech Model Railroad Club** (TMRC), un club de modélisme ferroviaire des étudiants du Massachusetts Institute of Technology. "M. Eccles demande que toute personne travaillant ou piratant ("hacking") le système électrique coupe le courant pour éviter de faire sauter les fusibles.”
 
 ![styled-image](/assets/images/hacking/TMRC.jpeg "TMRC"){: .align-center "}
 *Le club de modélisme électrique de trains du M.I.T en 1954*
@@ -173,7 +173,7 @@ Il s’agit du piratage d'un signal télévisé ayant eu lieu le 22 novembre 198
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dKnwhokvgxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-La [série télé Max Headroom](https://www.youtube.com/watch?v=2JLpKbMlcSU), dont le hacker pirate le masque, est une œuvre cyberpunk très remarquable. Dans le futur, une oligarchie de réseaux de télévision dirige le monde. Même le gouvernement fonctionne essentiellement comme une marionnette des dirigeants des réseaux, servant principalement à adopter des lois - comme l'interdiction des interrupteurs "off" sur les téléviseurs - qui protègent et consolident le pouvoir des réseaux. La technologie de la télévision a progressé au point que les mouvements physiques et les pensées des téléspectateurs peuvent être surveillés à travers leur téléviseur. Presque toutes les technologies non télévisuelles ont été abandonnées ou détruites.
+La [série télé Max Headroom](https://www.youtube.com/watch?v=2JLpKbMlcSU), dont le pirate porte le masque, est une œuvre cyberpunk très remarquable. Dans le futur, une oligarchie de réseaux de télévision dirige le monde. Même le gouvernement fonctionne essentiellement comme une marionnette des dirigeants des réseaux, servant principalement à adopter des lois - comme l'interdiction des interrupteurs "off" sur les téléviseurs - qui protègent et consolident le pouvoir des réseaux. La technologie de la télévision a progressé au point que les mouvements physiques et les pensées des téléspectateurs peuvent être surveillés à travers leur téléviseur. Presque toutes les technologies non télévisuelles ont été abandonnées ou détruites.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aEA8PWY3Oe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -266,7 +266,7 @@ Le mouvement du "free software" se présente à sa création comme une tentative
 *Soutenons les logiciels libres !*
 {: .align-caption}
 
-C’est en opposition au vote en 1980 du “Software Copyright Act” et de la large diffusion du micro-ordinateur que Richard Stallman lance en 1984 le mouvement du logiciel libre, afin d’empêcher que la privatisation du code ne détruise la culture hacker à laquelle il est profondément attaché. Le créateur du free software estime que les bénéfices sociaux de l’informatique sont bien moindres lorsque les utilisateurs se voient privés des libertés d’utiliser, de copier, de modifier et de distribuer les logiciels qu’ils utilisent. Pour lui, la libre circulation de l’information est en effet l’une des conditions du progrès social, et « l’idée de posséder l’information est nocive », car elle a des conséquences très dommageables : pertes de temps, obstacles à l’avancée de la science, corruption de l’ethos de la recherche.
+C’est en opposition au vote en 1980 du “Software Copyright Act” et de la large diffusion du micro-ordinateur que Richard Stallman lance en 1984 le mouvement du logiciel libre, afin d’empêcher que la privatisation du code ne détruise la culture hacker à laquelle il est profondément attaché. Le créateur du free software estime que les bénéfices sociaux de l’informatique sont bien moindres lorsque les utilisateurs se voient privés des libertés d’utiliser, de copier, de modifier et de distribuer les logiciels qu’ils utilisent. Pour lui, **la libre circulation de l’information est en effet l’une des conditions du progrès social**, et « l’idée de posséder l’information est nocive », car elle a des conséquences très dommageables : pertes de temps, obstacles à l’avancée de la science, corruption de l’ethos de la recherche.
 
 ![styled-image](/assets/images/hacking/linus.jpg "Linus"){: .align-center "}
 *Linus Torwald, compilant le noyau Linux en 1991*
@@ -286,7 +286,7 @@ Le contrôle de l’information est central dans la philosophie des hackers. Si 
 Life hack, bio hacker, growth hacker, hactiviste, et d'autres applications neutres ou positives du mot sont de plus en plus de plus en plus répandues, toujours liées à des astuces d'efficience. Mais l’interprétation du mot “hacker” a probablement influencé l'interprétation et l'application du [Computer Fraud and Abuse Act](https://fr.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act). La simple existence du terme "hacker" a donné des munitions aux poursuites judiciaires
 de personnalités telles qu'Edward Snowden, Julian Assange, Chelsea Manning, et Aaron Swartz …
 
-[Wikileaks](https://wikileaks.org/) est fondée par Julian Assange en 2006, et publie des documents provenant de sources anonymes. Sa raison d'être est de donner une audience aux lanceurs d'alertes et aux fuites d'information, tout en protégeant leurs sources. Plusieurs millions de documents relatifs à des scandales de corruption, d'espionnage et de violations de droits de l'homme concernant des dizaines de pays à travers le monde ont été publiés sur le site depuis sa création.
+[Wikileaks](https://wikileaks.org/) est fondée par Julian Assange en 2006, et publie des documents provenant de sources anonymes. Sa raison d'être est de **donner une audience aux lanceurs d'alertes et aux fuites d'information, tout en protégeant leurs sources**. Plusieurs millions de documents relatifs à des scandales de corruption, d'espionnage et de violations de droits de l'homme concernant des dizaines de pays à travers le monde ont été publiés sur le site depuis sa création.
 
 En France, c’est le [Parti Pirate](https://partipirate.org/) qui défend les questions d’informations en ligne dans le monde politique, et [La quadrature du Net](https://www.laquadrature.net/) qui défend la vie privée.
 
@@ -321,9 +321,9 @@ Le glider est le « symbole des hackers », proposé en octobre 2003 par Eric S.
 
 ## Do It Yourself
 
-De par cette vision opérative, les hackers sont des batisseurs pratiques de la cathédrale numérique. Ils prônent l'efficacité, le partage, et adeptes de la théorie du chaos qui côtoie les débuts de l’informatique, ils ont une vision optimiste de la vie, que les idéaux humains ne peuvent normaliser car elle est essentiellement mue par une anarchie créative. Proche des punk et de leur devise de créateurs autoproduits **“Do it yourself”, les Hackers deviennent vite des Makers.**
+De par cette vision opérative, les hackers sont des batisseurs pratiques de la cathédrale numérique. Ils prônent l'efficacité, le partage, et adeptes de la [théorie du chaos](/assets/documents/TheoriesduCahos.pdf) qui côtoie les débuts de l’informatique, ils ont une vision optimiste de la vie, que les idéaux humains ne peuvent normaliser car elle est essentiellement mue par une anarchie créative. Proche des punk et de leur devise de créateurs autoproduits **“Do it yourself”, les Hackers deviennent vite des Makers.**
 
-Les vrais punks conaissent tous [Le guide du zonard](http://guide.du.zonard.net/index.php/Accueil)
+[Les vrais punks conaissent tous **Le guide du zonard**](http://guide.du.zonard.net/index.php/Accueil)
 {: .btn .btn--success}
 
 La communauté des makers apprécie de prendre part à des projets orientés ingénierie. Les domaines typiques de ces projets sont **l'électronique, la robotique, l'impression 3D** mais également des activités plus traditionnelles telles que **la métallurgie, la menuiserie, et l'artisanat**. La culture maker met l'accent sur l'apprentissage par la pratique dans un cadre social. Elle se concentre ainsi sur une connaissance informelle, communautaire, collaborative et partagée. Elle encourage une utilisation innovante de la technologie, l'invention et le [prototypage](https://fr.wikipedia.org/wiki/Prototypage). C'est une activité que l'on exerce pour se faire plaisir, se divertir et qui n'a pas d'autre but : ce qui compte est l'action de faire et non le résultat du faire. Ces activités on fait ouvrir de nombreux Fab Lab, accessibles au public, et des HackerSpace, plus confidentiels et spécialisés.
@@ -338,7 +338,7 @@ De ce désir de faire pour le plaisir de créer naît la pratique du Hackathon :
 
 Il s’agit d’une pratique qui consiste à analyser un produit fini, comme un logiciel ou un mécanisme, pour connaître la manière dont celui-ci a été conçu et fabriqué. L'ingénierie inverse, courante dans l'industrie de l'informatique, et parfaitement légale, est considérée par certains comme de l'espionnage industriel et du piratage.
 
-Il s’agit d’un grand mot mais derrière se cache une seule et même réalité : la volonté de comprendre et d’apprendre. C’est une technique très vieille, naturelle à l’humain. Par exemple, l'armée romaine, qui ne disposait pas d'une marine permanente avant la première guerre punique, a réussi à inverser la conception d'une galère à cinq rangs de rames carthaginoise en 264 av.JC Grâce à la célèbre ingéniosité des Romains, ils ont compris, reproduit et optimisé une flotte de 300 navires en trois mois, capable de surpasser la flotte carthaginoise en nombre et en complexité de manœuvres navales.
+Il s’agit d’un grand mot mais derrière se cache une seule et même réalité : la volonté de comprendre et d’apprendre. C’est une technique très vieille, naturelle à l’humain. Par exemple, l'armée romaine, qui ne disposait pas d'une marine permanente avant la première guerre punique, a réussi à inverser la conception d'une galère à cinq rangs de rames carthaginoise en 264 av.JC. Grâce à la célèbre ingéniosité des Romains, ils ont compris, reproduit et optimisé une flotte de 300 navires en trois mois, capable de surpasser la flotte carthaginoise en nombre et en complexité de manœuvres navales.
 
 ![styled-image](/assets/images/hacking/punnic.png "Actium"){: .align-center "}
 *The Battle of Actium, Lorenzo A. Castro, 1672*
@@ -353,7 +353,6 @@ Si l'ingénierie inverse a commencé par des applications militaires, elle est a
 
 Cet apprentissage se fait seul le plus souvent : il n’y a pas de manuel disponible. Seuls l’intelligence, la débrouillardise et le côté « mécanicien » permettent d’arriver au but et permettent à l’esprit curieux de s’épanouir dans cette pratique. Vous devez ensuite considérer cette quête d’apprentissage comme un jeu : votre sens du défi va être mis à contribution. Comprendre demande du temps : si vous ne prenez pas de plaisir à analyser, démonter, décortiquer cela ne sert à rien, vous risquez de vous décourager au premier échec.
 
-
 Le reverse engineering demande enfin de la persévérance et de l’entêtement. L’échec doit être considéré comme un progrès : cela veut simplement dire que ce que vous êtes en train de faire ne fonctionne pas et que donc une autre piste doit être envisagée. Le fait de bloquer ou d’arriver à une conclusion négative signifie que vous avancez dans votre compréhension de l’objet étudié.
 
 Le cadre juridique de la rétro-ingénierie est très strictement défini par la loi française. **Il est illégal de la pratiquer sans raison valable, comme la recherche.** Depuis 2006, le chapitre IV du Titre I du Droit d'auteur et droits voisins dans la société de l'information interdit le contournement des mesures techniques de protection, en particulier la gestion des droits numériques.
@@ -366,12 +365,13 @@ I. - Est puni de 3 750 EUR d'amende le fait de porter atteinte sciemment, à des
 {% endcapture %}
 <div class="notice">{{ notice-2 | markdownify }}</div>
 
-## L'ingénierie sociale et l'espace urbain
+## L'ingénierie sociale
 
 L'ingénierie sociale dans le cadre du piratage informatique est la manipulation psychologique des personnes pour qu'elles accomplissent des actions ou divulguent des informations confidentielles. C’est une ruse de dans le but de recueillir des informations, de frauder ou d'accéder à un système. 
 
 Les six principe clef de ces manipulations sont : 
 : L’autorité
+: L'intimidation
 : Le consensus
 : La rareté
 : L’urgence
@@ -379,11 +379,13 @@ Les six principe clef de ces manipulations sont :
 
 Ces mêmes mécanismes psychologiques sont utilisés dans les appareils de propagande et l’industrie publicitaire. Pour le hacker, cibler l'opérateur humain de la machine relève du principe de l'efficacité énergétique, et de la réalisation pratique de ses actions. En effet, pourquoi perdre du temps à trouver des défauts techniques complexes, quand on peut simplement manipuler les utilisateurs de la clef, comme avec le piratage du télégraphe optique. C’est ce qu’on apelle le **PFH, “le putain de facteur humain”** : la plus grosse faiblesse de l'ordinateur se trouve entre le clavier et le fauteuil.
 
+# L'espace public
+
 ![styled-image](/assets/images/hacking/psycho.jpg "Debord"){: .align-center "}
 *Guide psychogéographique de paris par [Guy Debord](https://www.youtube.com/channel/UCMOiHIdyqXi8oZ3tab09Ouw)*
 {: .align-caption}
 
-Il faut ajouter que la culture des hackers est diffuse dans les mouvements de réappropriation de l’espace urbain. Auparavant, il faut citer Guy Debord et la pratique de la psychogéographie, permettant de **sortir des courants principaux du design urbain normatif**. Dans cette continuité, **la réappropriation de l'espace public passe par l’exploration urbaine et le rejet des restrictions à la liberté de mouvements**, droit humain inaliénable. Ainsi l’UrbEx, l’infiltration des espace fermés au public, souvent à des fin artistique comme avec [le collectif Interstices](https://interstices.in/), participe aussi de l’esprit du hacking, à la fois par les pratiques techniques qu’il encourage, mais aussi par sa philosophie libertaire.
+Il faut ajouter que la culture des hackers est diffuse dans les mouvements de réappropriation de l’espace urbain. Auparavant, on peut citer [Guy Debord](https://www.youtube.com/channel/UCMOiHIdyqXi8oZ3tab09Ouw) et la pratique de la psychogéographie, permettant de **sortir des courants principaux du design urbain normatif**. Dans cette continuité, **la réappropriation de l'espace public passe par l’exploration urbaine et le rejet des restrictions à la liberté de mouvements**, droit humain inaliénable. Ainsi l’UrbEx, l’infiltration des espace fermés au public, souvent à des fin artistique comme avec [le collectif Interstices](https://interstices.in/), participe aussi de l’esprit du hacking, à la fois par les pratiques techniques qu’il encourage, mais aussi par sa philosophie libertaire. On pourrait aussi relier les hackers avec le mouvement de la free-party, mais ce sujet est pour un autre article.
 
 ![styled-image](/assets/images/hacking/francoisK.jpg "Solaris"){: .align-center "}
 *Solaris de [Francois K](https://interstices.in/francois-k/)*
@@ -410,7 +412,7 @@ Le cyberpunk est un mouvement de la science-fiction, un genre et une culture qui
 *"High Tech Low Life", 2021*
 {: .align-caption}
 
-La première occurrence du terme Cyberpunk est apparue dans le titre d'une nouvelle de Bruce Bethke en 1983 et a été définie par l'écrivain Bruce Sterling comme "une combinaison de vie basse et de haute technologie" / **"high-tech, low life"**. Dès le milieu des années 1980, les auteurs comme Gibson annonçaient que le mouvement cyberpunk était déjà moribond, récupéré par Hollywood, digéré et recraché sous une forme dépourvue de son élément punk. Dès le début du mouvement hacker, Eric S. Raymond recommande de ne jamais s'identifier à ce mouvement sous peine de se couvrir de ridicule.
+La première occurrence du terme Cyberpunk est apparue dans le titre d'une nouvelle de Bruce Bethke en 1983 et a été définie par l'écrivain Bruce Sterling comme "une combinaison de vie basse et de haute technologie" / **"high-tech, low life"**. Dès le milieu des années 1980, les auteurs comme Gibson annonçaient que le mouvement cyberpunk était déjà moribond, récupéré par Hollywood, digéré et recraché sous une forme dépourvue de son élément punk. Dès le début du mouvement hacker, Eric S. Raymond recommande de ne jamais s'identifier comme cyberpunk sous peine de se couvrir de ridicule.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IESEcsjDcmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -429,7 +431,7 @@ On trouve comme oeuvre cybepunk :
 
 À l'origine de tous les sous-genres punk de la fiction spéculative (steampunk, radiumpunk, solarpunk …), le cyberpunk sert cependant à la fois de critique et d'avertissement contre **la menace des conglomérats puissants** et de l'autorité.
 
-Les histoires basées dans un cadre cyberpunk suivent généralement des antihéros rebelles qui se battent contre le pouvoir imposé par les méga conglomérats qui ont remplacé les gouvernements par le contrôle capitaliste. Les fictions cyberpunk sont politiques par nature et contiennent des commentaires profonds sur des sujets tels que **l'intelligence artificielle et le transhumanisme**. La lutte entre le bien et le mal est centrée autour de l’utilisation d’une technologie, et de sa [libération par la figure du hacker](https://c4magazine.org/2012/04/13/cyber-exploration-nouveaux-territoires/).
+Les histoires basées dans un cadre cyberpunk suivent généralement des antihéros rebelles qui se battent contre le pouvoir imposé par les méga conglomérats qui ont remplacé les gouvernements par le contrôle capitaliste. Les fictions cyberpunk sont politiques par nature et contiennent des commentaires profonds sur des sujets tels que [**l'intelligence artificielle et le transhumanisme**](/assets/documents/SyndicatsProphetiesv1.pdf). La lutte entre le bien et le mal est centrée autour de l’utilisation d’une technologie, et de sa [libération par la figure du hacker](https://c4magazine.org/2012/04/13/cyber-exploration-nouveaux-territoires/).
 
 ![styled-image](/assets/images/hacking/incal.jpg "Incal"){: .align-center "}
 *L'incal, de Alexandro Jodorowsky & Moebius, 1981*
