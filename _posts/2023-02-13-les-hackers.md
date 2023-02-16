@@ -37,7 +37,7 @@ Un des premiers systèmes de sécurité est la serrure et la porte. Une clef per
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ezTqRwBoQRZhm" width="100%" height="100%" style="position:absolute" frameBorder="0"></iframe></div>
 
-La clef et la serrure fonctionnent selon **un protocole de communication**, on pourrait dire que c’est le profil de la clef composé de ses différentes rainures, et **un mot de passe**, c’est la hauteur de chaque goupille de la serrure et de chaque dents de la clef. Quand le bon mot de passe est envoyé par le bon protocole, alors le rotor peut tourner dans le strator et la porte s’ouvre. La clef est un moyen d’envoyer ce message, mais il est toujours possible de hacker ce protocole. 
+La clef et la serrure fonctionnent selon **un protocole de communication**, on pourrait dire que c’est le profil de la clef composé de ses différentes rainures, et **un mot de passe**, c’est la hauteur de chaque goupille de la serrure et de chaque dents de la clef. Quand le bon mot de passe est envoyé par le bon protocole, alors le rotor peut tourner dans le stator et la porte s’ouvre. La clef est un moyen d’envoyer ce message, mais il est toujours possible de hacker ce protocole. 
 
 [Découvrez le guide du M.I.T pour l’ouverture de sérrures.](http://luc92.free.fr/cryp5txt/cryptel5/data/mit/crochetage.html)
 {: .btn .btn--success}
@@ -63,7 +63,7 @@ Les frères Blanc entreprennent de détourner le télégraphe optique. Ils élab
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xUn3CftPBajoflzROU" width="100%" height="100%" style="position:absolute" frameBorder="0"></iframe></div>
 
-Ils poursuivent leurs activités dans des casinos à l'étranger. Puis, après le décès de son frère Louis,[François](https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Blanc) se fait connaître comme le **« magicien de Homburg »** et acquiert une fortune considérable qui lui permet de fonder le quartier Monte Carlo et d'ouvrir le casino de Monaco. Il est inhumé depuis 1877 au cimetière du Père-Lachaise (56e division).
+Ils poursuivent leurs activités dans des casinos à l'étranger. Puis, après le décès de son frère Louis, [François](https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Blanc) se fait connaître comme le **« magicien de Homburg »** et acquiert une fortune considérable qui lui permet de fonder le quartier Monte Carlo et d'ouvrir le casino de Monaco. Il est inhumé depuis 1877 au cimetière du Père-Lachaise (56e division).
 
 ![styled-image](/assets/images/hacking/Monte_Carlo_Casino_general_plan.jpg "Garnier"){: .align-center style="width: 560;"}
 *Croquis d'architecture du Casino de Monte Carlo, Charles Garnier*
@@ -145,7 +145,7 @@ Cette catégorie de hacker est née avec John Draper, alias Captain Crunch. La l
 ![styled-image](/assets/images/hacking/crunch.jpg "Crunch"){: .align-center "}
 {: .align-caption}
 
-Le phreaking s’est répandu dans les années 70. Les phreaks passaient une grande partie de leur temps libre à parcourir le réseau téléphonique en composant des numéros, écoutant des suites de tonalités, ou encore en lisant les rapports techniques des compagnies de téléphone. Pour les plus grands fans, cela pouvait aller jusqu’à fouiller les poubelles d’une compagnie. C’est ce genre de comportements extrêmes qui leur a valu d’être considéré comme des freaks, puis d’êtres baptisés phreaks. Avec toutes ces recherches, ils en sont venus à construire du matériel électronique pour les aider. 
+Le phreaking s’est répandu dans les années 70. Les phreaks passaient une grande partie de leur temps libre à parcourir le réseau téléphonique en composant des numéros, écoutant des suites de tonalités, ou encore en lisant les rapports techniques des compagnies de téléphone. Pour les plus grands fans, cela pouvait aller jusqu’à fouiller les poubelles d’une compagnie. C’est ce genre de comportements extrêmes qui leur a valu d’être considéré comme des freaks, des "phone freaks", puis d’êtres baptisés phreaks. Avec toutes ces recherches, ils en sont venus à construire du matériel électronique pour les aider. 
 
 ![styled-image](/assets/images/hacking/redbox.jpg "RedBox"){: .align-center "}
 *Schéma electronique d'une Red Box*
@@ -205,9 +205,9 @@ Lors de la visualisation d'une démo, l'ordinateur calcule en temps réel l'affi
 
 ---
 
-# Comment devenir un hacker ? 
+# Comment devenir un hacker ?
 
-Je vous propose ici la traduction d'un texte souvent partagé lorsque l'on veut décrire la philosophie des hackers, il s'agit de [How To Become A Hacker de Eric Steven Raymond, 1997](https://www.cairn.info/libres-enfants-du-savoir-numerique--9782841620432-page-255.htm%20-%20no10). Eric S. Raymond a aussi contribué au Glider.
+Je vous propose ici la traduction d'un texte souvent partagé lorsque l'on veut décrire la philosophie des hackers, il s'agit de [How To Become A Hacker de Eric Steven Raymond, 1997](https://www.cairn.info/libres-enfants-du-savoir-numerique--9782841620432-page-255.htm%20-%20no10). Eric S. Raymond a aussi contribué au [Glider](/numérique/les-hackers/#le-jeu-de-la-vie--le-glider).
 
 [Hacker Newletter](https://hackernewsletter.com/)
 {: .btn .btn--success}
@@ -266,7 +266,7 @@ Le mouvement du "free software" se présente à sa création comme une tentative
 *Soutenons les logiciels libres !*
 {: .align-caption}
 
-C’est en opposition au vote en 1980 du “Software Copyright Act” et de la large diffusion du micro-ordinateur que Richard Stallman lance en 1984 le mouvement du logiciel libre, afin d’empêcher que la privatisation du code ne détruise la culture hacker à laquelle il est profondément attaché. Le créateur du free software estime que les bénéfices sociaux de l’informatique sont bien moindres lorsque les utilisateurs se voient privés des libertés d’utiliser, de copier, de modifier et de distribuer les logiciels qu’ils utilisent. Pour lui, **la libre circulation de l’information est en effet l’une des conditions du progrès social**, et « l’idée de posséder l’information est nocive », car elle a des conséquences très dommageables : pertes de temps, obstacles à l’avancée de la science, corruption de l’ethos de la recherche.
+C’est en opposition au vote en 1980 du “Software Copyright Act” et de la large diffusion du micro-ordinateur que Richard Stallman lance en 1984 le mouvement du logiciel libre, afin d’empêcher que la privatisation du code ne détruise la culture hacker à laquelle il est profondément attaché. Le créateur du free software estime que les bénéfices sociaux de l’informatique sont bien moindres lorsque les utilisateurs se voient privés des libertés d’utiliser, de copier, de modifier et de distribuer les logiciels qu’ils utilisent. Pour lui, **la libre circulation de l’information est en effet l’une des conditions du progrès social**, et « l’idée de posséder l’information est nocive », car elle a des conséquences très dommageables : pertes de temps, obstacles à l’avancée de la science, [corruption de l’ethos de la recherche](https://fr.wikipedia.org/wiki/Ethos_de_la_science).
 
 ![styled-image](/assets/images/hacking/linus.jpg "Linus"){: .align-center "}
 *Linus Torwald, compilant le noyau Linux en 1991*
@@ -277,13 +277,13 @@ Un des objectifs principaux du logiciel libre est de permettre à l’utilisateu
 ![styled-image](/assets/images/hacking/linux.jpg "linux"){: .align-center "}
 {: .align-caption}
 
-En France, l'association [Framasoft](https://fr.wikipedia.org/wiki/Framasoft) participe à la liberté de la conception logicielle. En parallèle de cette culture légale du partage de savoir, le piratage de connaissance à continuer à se développer, en partie pour protester contre les conglomérats détenteurs de propriétés intellectuelles qui devraient appartenir au patrimoine commun de l’humanité. Le partage de fichiers par le protocole BitTorrent fait naître en 2003 le site [The Pirate Bay](https://www.youtube.com/watch?v=ai-I-aI6izc), hébergé en 2010 dans le [cyber-Bunker](https://sgfrance.wixsite.com/blog/post/g%C3%A9n%C3%A9ration-identitaire-dans-le-cyberbunker). Les questions éthiques du partage de la connaissance sont soulevées par les pirates, [seule opposition](https://www.larevuedesressources.org/manifeste-crypto-anarchiste,2316.html) aux licences de droits d’auteur des grandes compagnies.
+En France, l'association [Framasoft](https://fr.wikipedia.org/wiki/Framasoft) participe à la liberté de la conception logicielle. En parallèle de cette culture légale du partage de savoir, le piratage de connaissance a continué à se développer, en partie pour protester contre les conglomérats détenteurs de propriétés intellectuelles qui devraient appartenir au patrimoine commun de l’humanité. Le partage de fichiers par le protocole BitTorrent fait naître en 2003 le site [The Pirate Bay](https://www.youtube.com/watch?v=ai-I-aI6izc), hébergé en 2010 dans le [cyber-Bunker](https://sgfrance.wixsite.com/blog/post/g%C3%A9n%C3%A9ration-identitaire-dans-le-cyberbunker). Les questions éthiques du partage de la connaissance sont soulevées par les pirates, [seule opposition](https://www.larevuedesressources.org/manifeste-crypto-anarchiste,2316.html) aux licences de droits d’auteur des grandes compagnies.
 
 ## Partage de la connaissance
 
 Le contrôle de l’information est central dans la philosophie des hackers. Si des pratiques malveillantes pour obtenir de l’argent en découlent, les méthodes de dépassement des systèmes de protection de l’industrie informatique aussi. Il s’agit d'aspects négatifs appliqués à des actes illégaux, et qui utilisent de la connaissance pour des utilisations moralement discutables.
 
-Life hack, bio hacker, growth hacker, hactiviste, et d'autres applications neutres ou positives du mot sont de plus en plus de plus en plus répandues, toujours liées à des astuces d'efficience. Mais l’interprétation du mot “hacker” a probablement influencé l'interprétation et l'application du [Computer Fraud and Abuse Act](https://fr.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act). La simple existence du terme "hacker" a donné des munitions aux poursuites judiciaires
+"Life hack", "biohacker", "growth hacker", "hactiviste", et d'autres applications neutres ou positives du mot sont de plus en plus répandues, toujours liées à des astuces d'efficience. Malheureusement l’interprétation du mot “hacker” a probablement influencé l'interprétation et l'application du [Computer Fraud and Abuse Act](https://fr.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act). La simple existence du terme "hacker" a donné des munitions aux poursuites judiciaires
 de personnalités telles qu'Edward Snowden, Julian Assange, Chelsea Manning, et Aaron Swartz …
 
 [Wikileaks](https://wikileaks.org/) est fondée par Julian Assange en 2006, et publie des documents provenant de sources anonymes. Sa raison d'être est de **donner une audience aux lanceurs d'alertes et aux fuites d'information, tout en protégeant leurs sources**. Plusieurs millions de documents relatifs à des scandales de corruption, d'espionnage et de violations de droits de l'homme concernant des dizaines de pays à travers le monde ont été publiés sur le site depuis sa création.
@@ -300,7 +300,7 @@ Chaque licence aide les créateurs tout en autorisant le public à copier, distr
 
 ## Le jeu de la vie & le glider
 
-Le glider est le « symbole des hackers », proposé en octobre 2003 par Eric S. Raymond (auteur de Comment devenir un hacker ?) comme symbole reconnaissable pour la culture hacker. C'est la figure qui entraîne le plus de vie avec le moins d'énergie, le "planeur" / "glider", dans [le jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie). Il est en mouvement autonome et permanent dans la matrice de règles qui le gouverne, dans une efficience énergétique optimale.
+Le glider est le « symbole des hackers », proposé en octobre 2003 par Eric S. Raymond (auteur de [Comment devenir un hacker ?](/numérique/les-hackers/#comment-devenir-un-hacker-)) comme symbole reconnaissable pour la culture hacker. C'est la figure qui entraîne le plus de vie avec le moins d'énergie, le "planeur" / "glider", dans [le jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie). Il est en mouvement autonome et permanent dans la matrice de règles qui le gouverne, dans une efficience énergétique optimale.
 
 <iframe width="100%" height="500px" style="border: 2;" scrolling="no"
     src="/assets/documents/Html5Life-master/life.html?params&scale=16&resetInterval=10&height=64"></iframe>
@@ -367,7 +367,7 @@ I. - Est puni de 3 750 EUR d'amende le fait de porter atteinte sciemment, à des
 
 ## L'ingénierie sociale
 
-L'ingénierie sociale dans le cadre du piratage informatique est la manipulation psychologique des personnes pour qu'elles accomplissent des actions ou divulguent des informations confidentielles. C’est une ruse de dans le but de recueillir des informations, de frauder ou d'accéder à un système. 
+L'ingénierie sociale dans le cadre du piratage informatique est la manipulation psychologique des personnes pour qu'elles accomplissent des actions ou divulguent des informations confidentielles. Pour un ["brouteur"](https://en.wikipedia.org/wiki/Black_Axe_(organized_crime_group)) c'est un catalogue de ruses dont le but est de recueillir des informations, de frauder ou d'accéder à un système. 
 
 Les six principe clef de ces manipulations sont : 
 : L’autorité
@@ -377,7 +377,7 @@ Les six principe clef de ces manipulations sont :
 : L’urgence
 : La familiarité
 
-Ces mêmes mécanismes psychologiques sont utilisés dans les appareils de propagande et l’industrie publicitaire. Pour le hacker, cibler l'opérateur humain de la machine relève du principe de l'efficacité énergétique, et de la réalisation pratique de ses actions. En effet, pourquoi perdre du temps à trouver des défauts techniques complexes, quand on peut simplement manipuler les utilisateurs de la clef, comme avec le piratage du télégraphe optique. C’est ce qu’on apelle le **PFH, “le putain de facteur humain”** : la plus grosse faiblesse de l'ordinateur se trouve entre le clavier et le fauteuil.
+Ces mêmes mécanismes psychologiques sont utilisés dans les appareils de propagande et l’industrie publicitaire. Pour le hacker, cibler l'opérateur humain de la machine relève du principe de l'efficacité énergétique, et de la réalisation pratique de ses actions. En effet, pourquoi perdre du temps à trouver des défauts techniques complexes dans un système de sécurité, quand on peut simplement manipuler les utilisateurs de la clef, comme avec [le piratage du télégraphe optique](/numérique/les-hackers/#le-cyberpiratage-du-télégraphe-optique). C’est ce qu’on apelle le **PFH, “le putain de facteur humain”** : la plus grosse faiblesse de l'ordinateur se trouve entre le clavier et le fauteuil.
 
 # L'espace public
 
