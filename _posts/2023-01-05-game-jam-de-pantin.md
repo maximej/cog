@@ -2,7 +2,7 @@
 title: "Game Jam de Pantin"
 layout: single
 categories:
-  - Numérique 
+  - Numerique 
   - Ludique 
 tags:
   - Art 

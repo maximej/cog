@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Le C.O.G"
 description              : "Association d'art ludique et numérique."
-url                      : "www.lecog.fr"
+url                      : "https://www.lecog.fr"
 baseurl                  : "/"
 repository               : "maximej/cog"
 teaser                   : "/assets/img/Banniere.jpg"
