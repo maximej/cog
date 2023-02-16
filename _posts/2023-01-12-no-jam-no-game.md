@@ -6,7 +6,7 @@ toc_label: "Ateliers d'initiation au game design sans code"
 toc_icon: "cog"
 author_profile: true
 categories:
-  - Numérique 
+  - Numerique 
   - Ludique 
 tags:
   - Numérique 

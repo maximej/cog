@@ -4,7 +4,7 @@ permalink: categories/numerique/
 header:
   overlay_image: /assets/images/SCHROEDER.jpg
 layout: category
-taxonomy: Numérique
+taxonomy: Numerique
 entries_layout: grid
 classes: wide
 sidebar:

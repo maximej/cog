@@ -2,7 +2,7 @@
 title: "Hyperphoto"
 layout: single
 categories:
-  - Numérique 
+  - Numerique 
 tags:
   - Numérique
   - Art

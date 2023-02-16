@@ -2,7 +2,7 @@
 title: "Art et anticipation"
 layout: single
 categories:
-  - Numérique 
+  - Numerique 
   - Ludique
 tags:
   - Littérature

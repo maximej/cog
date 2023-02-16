@@ -2,7 +2,7 @@
 title: "Le Glitch Art"
 layout: single
 categories:
-  - Numérique 
+  - Numerique 
 tags:
   - Numérique
   - Art

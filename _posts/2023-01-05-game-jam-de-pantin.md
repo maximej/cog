@@ -6,7 +6,7 @@ categories:
   - Ludique 
 tags:
   - Art 
-  - Numérique 
+  - Numerique 
   - Jeu 
   - Jam
 header:

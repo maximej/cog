@@ -2,7 +2,7 @@
 title: "Escape the network"
 layout: single
 categories:
-  - Numérique 
+  - Numerique 
 tags:
   - Numérique
   - Deep Web

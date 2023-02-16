@@ -2,7 +2,7 @@
 title: "Analog Digital"
 layout: single
 categories:
-  - Numérique 
+  - Numerique 
   - Ludique
 tags:
   - Numérique
