@@ -20,7 +20,7 @@ title                    : "Le Cercle de l'Orbite Galactique"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Le C.O.G"
-description              : "Association d'art ludique et numérique."
+description              : "Association d'art ludique et numérique. Nous voulons fédérer les artistes, éditer les créateurs, organiser des événements, diffuser des réalisations, et promouvoir le patrimoine dans le domaine culturel et social des arts ludiques, numériques, musicaux, visuels, vidéo, littéraires et plastiques. L’association a pour vocation faire la promotion de la pratique artistique, ludique et numérique par des événements ouverts et créateurs de lien social."
 url                      : "https://www.lecog.fr"
 baseurl                  : "/"
 repository               : "maximej/cog"

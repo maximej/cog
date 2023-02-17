@@ -24,7 +24,7 @@ Nous nous sommes tous déjà retrouvés face à une image illisible sur son écr
 
 C’est à partir de ce dernier constat qu’est né le « glitch art » : une démarche consistant à altérer les données d’un fichier image (ou vidéo), pour générer des curiosités visuelles. 
 
-<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/l3q2DjYkmGHJURUha" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="/numérique/ludique/analog-digital/">
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/l3q2DjYkmGHJURUha" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="/numerique/ludique/analog-digital/">
 La tête de lecture du magnetoscope fait apparaitre du bruit magnetique sur l'image.</a></p>
 
 ## Le glitch : le dernier mouvement artistique ?

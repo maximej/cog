@@ -207,7 +207,7 @@ Lors de la visualisation d'une démo, l'ordinateur calcule en temps réel l'affi
 
 # Comment devenir un hacker ?
 
-Je vous propose ici la traduction d'un texte souvent partagé lorsque l'on veut décrire la philosophie des hackers, il s'agit de [How To Become A Hacker de Eric Steven Raymond, 1997](https://www.cairn.info/libres-enfants-du-savoir-numerique--9782841620432-page-255.htm%20-%20no10). Eric S. Raymond a aussi contribué au [Glider](/numérique/les-hackers/#le-jeu-de-la-vie--le-glider).
+Je vous propose ici la traduction d'un texte souvent partagé lorsque l'on veut décrire la philosophie des hackers, il s'agit de [How To Become A Hacker de Eric Steven Raymond, 1997](https://www.cairn.info/libres-enfants-du-savoir-numerique--9782841620432-page-255.htm%20-%20no10). Eric S. Raymond a aussi contribué au [Glider](/numerique/les-hackers/#le-jeu-de-la-vie--le-glider).
 
 [Hacker Newletter](https://hackernewsletter.com/)
 {: .btn .btn--success}
@@ -300,7 +300,7 @@ Chaque licence aide les créateurs tout en autorisant le public à copier, distr
 
 ## Le jeu de la vie & le glider
 
-Le glider est le « symbole des hackers », proposé en octobre 2003 par Eric S. Raymond (auteur de [Comment devenir un hacker ?](/numérique/les-hackers/#comment-devenir-un-hacker-)) comme symbole reconnaissable pour la culture hacker. C'est la figure qui entraîne le plus de vie avec le moins d'énergie, le "planeur" / "glider", dans [le jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie). Il est en mouvement autonome et permanent dans la matrice de règles qui le gouverne, dans une efficience énergétique optimale.
+Le glider est le « symbole des hackers », proposé en octobre 2003 par Eric S. Raymond (auteur de [Comment devenir un hacker ?](/numerique/les-hackers/#comment-devenir-un-hacker-)) comme symbole reconnaissable pour la culture hacker. C'est la figure qui entraîne le plus de vie avec le moins d'énergie, le "planeur" / "glider", dans [le jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie). Il est en mouvement autonome et permanent dans la matrice de règles qui le gouverne, dans une efficience énergétique optimale.
 
 <iframe width="100%" height="500px" style="border: 2;" scrolling="no"
     src="/assets/documents/Html5Life-master/life.html?params&scale=16&resetInterval=10&height=64"></iframe>
@@ -332,7 +332,7 @@ La communauté des makers apprécie de prendre part à des projets orientés ing
 *Le hackerspace [Fuz.re](https://fuz.re/)*
 {: .align-caption}
 
-De ce désir de faire pour le plaisir de créer naît la pratique du Hackathon : un concours de créateurs numériques, limité dans le temps, qui doit répondre à des contraintes précises. Les thèmes sont variés, et l’objectif est toujours de s'entraîner à la résolution de problèmes, comme au [Stupid Hackathon](http://www.stupidhackathon.com/). On fait aussi des[Game Jam](/numérique/ludique/ggj2023/), concours créatif spécialisé dans les jeux, numériques ou non, comme **la [Global Game Jam](https://globalgamejam.org/2023/jam-sites/game-jam-de-pantin-le-cog), qui réunit des dizaines de milliers de participants** chaque année venant d’une centaine de pays, qui vont coder des jeux tous partagés en creative commons.
+De ce désir de faire pour le plaisir de créer naît la pratique du Hackathon : un concours de créateurs numériques, limité dans le temps, qui doit répondre à des contraintes précises. Les thèmes sont variés, et l’objectif est toujours de s'entraîner à la résolution de problèmes, comme au [Stupid Hackathon](http://www.stupidhackathon.com/). On fait aussi des[Game Jam](/numerique/ludique/ggj2023/), concours créatif spécialisé dans les jeux, numériques ou non, comme **la [Global Game Jam](https://globalgamejam.org/2023/jam-sites/game-jam-de-pantin-le-cog), qui réunit des dizaines de milliers de participants** chaque année venant d’une centaine de pays, qui vont coder des jeux tous partagés en creative commons.
 
 ## Retro Engineering
 
@@ -377,7 +377,7 @@ Les six principe clef de ces manipulations sont :
 : L’urgence
 : La familiarité
 
-Ces mêmes mécanismes psychologiques sont utilisés dans les appareils de propagande et l’industrie publicitaire. Pour le hacker, cibler l'opérateur humain de la machine relève du principe de l'efficacité énergétique, et de la réalisation pratique de ses actions. En effet, pourquoi perdre du temps à trouver des défauts techniques complexes dans un système de sécurité, quand on peut simplement manipuler les utilisateurs de la clef, comme avec [le piratage du télégraphe optique](/numérique/les-hackers/#le-cyberpiratage-du-télégraphe-optique). C’est ce qu’on apelle le **PFH, “le putain de facteur humain”** : la plus grosse faiblesse de l'ordinateur se trouve entre le clavier et le fauteuil.
+Ces mêmes mécanismes psychologiques sont utilisés dans les appareils de propagande et l’industrie publicitaire. Pour le hacker, cibler l'opérateur humain de la machine relève du principe de l'efficacité énergétique, et de la réalisation pratique de ses actions. En effet, pourquoi perdre du temps à trouver des défauts techniques complexes dans un système de sécurité, quand on peut simplement manipuler les utilisateurs de la clef, comme avec [le piratage du télégraphe optique](/numerique/les-hackers/#le-cyberpiratage-du-télégraphe-optique). C’est ce qu’on apelle le **PFH, “le putain de facteur humain”** : la plus grosse faiblesse de l'ordinateur se trouve entre le clavier et le fauteuil.
 
 # L'espace public
 

@@ -97,7 +97,7 @@ cog :
   name        : "Le Cercle de l'Orbite Galactique"
   bio         : "Association d'art ludique et numérique"
   avatar      : "/assets/img/COG_Logo_1000.jpg"
-  home        : "/about"
+  home        : "/numerique/deep-web/"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
