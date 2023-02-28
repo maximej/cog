@@ -1,5 +1,5 @@
 ---
-title: "Art et anticipation"
+title: "Anticipation"
 layout: single
 categories:
   - Numerique 
@@ -13,7 +13,7 @@ header:
 author_profile : true
 author : Max
 toc: true
-toc_label: "Art et anticipation"
+toc_label: "Anticipation"
 toc_icon: "cog"
 ---
 

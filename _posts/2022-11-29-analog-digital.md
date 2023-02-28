@@ -42,7 +42,7 @@ La tête de lecture du magnetoscope fait apparaitre du bruit magnetique sur l'im
 [Dirty64 Retrogaming](https://www.youtube.com/playlist?list=PLsg_cg9K_TfUx74HVaGYrb2ktj8yUFPQx)
 {: .btn .btn--success}
 
-Karl Klomp is an audiovisual designer who has created a number of cool gadgets for live performance visuals. One of these is dubbed the Dirty Video Mixer. This device takes in two composite visual inputs and mixes them together to create trippy and glitchy effects. I had never seen anything like this before so I decided to make one for myself!
+Karl Klomp est un concepteur audiovisuel qui a créé un certain nombre de gadgets sympas pour les spectacles en live. L'un d'eux s'appelle le Dirty Video Mixer. Cet appareil prend deux entrées visuelles composites et les mixe ensemble pour créer des effets bizarres et des glitchs. Je n'avais jamais vu un tel dispositif auparavant, alors j'ai décidé d'en fabriquer pour moi-même !
 
 [Techno Video](/assets/documents/techno video.pdf){: .btn .btn--info}
 
