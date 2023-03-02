@@ -39,7 +39,7 @@ Un des premiers systèmes de sécurité est la serrure et la porte. Une clef per
 
 La clef et la serrure fonctionnent selon **un protocole de communication**, on pourrait dire que c’est le profil de la clef composé de ses différentes rainures, et **un mot de passe**, c’est la hauteur de chaque goupille de la serrure et de chaque dents de la clef. Quand le bon mot de passe est envoyé par le bon protocole, alors le rotor peut tourner dans le stator et la porte s’ouvre. La clef est un moyen d’envoyer ce message, mais il est toujours possible de hacker ce protocole. 
 
-[Découvrez le guide du M.I.T pour l’ouverture de sérrures.](http://luc92.free.fr/cryp5txt/cryptel5/data/mit/crochetage.html)
+[Découvrez le guide du M.I.T pour l’ouverture de sérrures.](http://luc92.free.fr/cryp5txt/cryptel5/data/mit/crochetage.html){:target="_blank"}
 {: .btn .btn--success}
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/nhFJRBA9yaMJG" width="100%" height="100%" style="position:absolute" frameBorder="0"></iframe></div>
@@ -95,7 +95,7 @@ La démonstration continue, mais le mal est fait : si quelqu'un peut s'immiscer 
 *Le théâtre du père de Nevil Maskelyne.*
 {: .align-caption}
 
-Il s’agissait de Nevil Maskelyne, inventeur, espion, issu d’une [dynastie de magiciens](https://artefake.fr/john-nevil-maskelyne/), dont les recherches étaient limitées par les brevets de Marconi. Maskelyne a construit un mât radio de 50 mètres pour voir s'il pouvait écouter les messages que la société Marconi transmettait dans le cadre de son activité très fructueuse. Dans le journal The Electrician du 7 novembre 1902, Maskelyne a révélé avec joie le manque de sécurité. "J'ai reçu des messages Marconi avec un circuit collecteur de 25 pieds élevé sur un échafaudage." Marconi avait breveté une technologie pour accorder un émetteur sans fil afin de diffuser sur une longueur d'onde précise. Ce réglage, prétendait Marconi, signifiait que des canaux confidentiels pouvaient être mis en place, ce n'est pas vrai, mais ce n'était pas aussi évident à l'époque. Maskelyne a montré qu'en utilisant un récepteur à large bande il pouvait recevoir ces messages. Il a ensuite mis en scène son piratage de la Royal Institution en installant un émetteur et une clé morse dans le music-hall voisin de son père, le West End.
+Il s’agissait de Nevil Maskelyne, inventeur, espion, issu d’une [dynastie de magiciens](https://artefake.fr/john-nevil-maskelyne/){:target="_blank"}, dont les recherches étaient limitées par les brevets de Marconi. Maskelyne a construit un mât radio de 50 mètres pour voir s'il pouvait écouter les messages que la société Marconi transmettait dans le cadre de son activité très fructueuse. Dans le journal The Electrician du 7 novembre 1902, Maskelyne a révélé avec joie le manque de sécurité. "J'ai reçu des messages Marconi avec un circuit collecteur de 25 pieds élevé sur un échafaudage." Marconi avait breveté une technologie pour accorder un émetteur sans fil afin de diffuser sur une longueur d'onde précise. Ce réglage, prétendait Marconi, signifiait que des canaux confidentiels pouvaient être mis en place, ce n'est pas vrai, mais ce n'était pas aussi évident à l'époque. Maskelyne a montré qu'en utilisant un récepteur à large bande il pouvait recevoir ces messages. Il a ensuite mis en scène son piratage de la Royal Institution en installant un émetteur et une clé morse dans le music-hall voisin de son père, le West End.
 
 ---
 

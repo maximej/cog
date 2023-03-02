@@ -9,3 +9,4 @@ Afin de contribuer à la preservation du patrimoine ludique et numérique, le C.
 **Restez en ligne :** La ludothèque du C.O.G sera bientôt ouverte aux membres.
 {: .notice} 
 
+

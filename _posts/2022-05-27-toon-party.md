@@ -11,9 +11,23 @@ header:
 
 ---
 
+## Les actus
+
+Retrouvez une nouvelle version de Toon Party au festival [Jeux & Cie le 10 - 11 - 12](https://www.facebook.com/Jeux.et.Cie.Epinal/) mars 2023 !
+
+<iframe src="https://www.instagram.com/toonpartyjdr/embed" width="560" height="580" frameborder="0"> </iframe>
+
 ## Toon Party - le nouveau jeu de rôle dans l'univers du cartoon
 
-Les parties avec vous m'ont énormément inspirée et donné de la joie ! Je vais pouvoir mettre à jour Le Manuel du Chef Anim' de Toon Party avec plusieurs améliorations, notamment au niveau du mélange des jeux de parcours et de la partie narrativiste. Le générateur de parcours narratif est à ajuster aussi, mais il est fonctionnel et vous permet déjà de jouer de nombreuses parties sans avoir à préparer l'histoire. Alors je vais prendre le temps de finir ce jeu pour <a href="https://trollsetlegendes.be/">Trolls et Légendes le 7, 8, 9 avril 2023 à Mons, en Belgique</a>. C'est pour cela que je vous partage les documents déjà en cours :
+Une partie dure 2 heures pour 2 à 5 joueurs à partir de 10 ans. Cela comprend la création de personnage avec une introduction de 30 min, puis une partie jeu de rôle de 1h30.
+
+Toon Party est un jeu de rôle narrativiste avec une mécanique simple, dans un mélange d’univers humoristiques, issus de la culture populaire, et partagés par tous. Il se joue dans une ville imaginaire, située dans une réalité parallèle à la nôtre, qui évolue hors du temps, de l’espace et des principes physiques du monde des humains.
+
+Les joueurs incarnent un Toon, un personnage fictif issu de l’histoire des dessins animés. Il seront chargés d’une mission absurde qui leur fera traverser des péripéties dans différents lieux de la ville et ils devront dépasser des épreuves à la façon surréalistes des personnages illustrés.
+
+## Bilan des parties
+
+Les parties avec vous m'ont énormément inspirée et donné de la joie ! Je vais pouvoir mettre à jour Le Manuel du Chef Anim' de Toon Party avec plusieurs améliorations, notamment au niveau du mélange des jeux de parcours et de la partie narrativiste. Le générateur de parcours narratif est à ajuster aussi, mais il est fonctionnel et vous permet déjà de jouer de nombreuses parties sans avoir à préparer l'histoire. Alors je continue de travailler sur ce jeu pour <a href="https://trollsetlegendes.be/">Trolls et Légendes le 7, 8, 9 avril 2023 à Mons, en Belgique</a>. C'est pour cela que je vous partage les documents déjà en cours :
 
 Découvre le jeu : [Toon Party](https://linktr.ee/toonparty){: .btn .btn--warning}
 {: .notice} 
