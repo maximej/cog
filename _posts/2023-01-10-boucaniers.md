@@ -45,6 +45,8 @@ Voici avec ce lien les [règles de ce jeu](https://drive.google.com/file/d/15Bbf
 ## “Boucaniers, Le magot d’Armand le baratineur"
 *un jeu de Vincent Tellier & Thierry Durand*
 
+Joue à Boucaniers sur [Tabletop Simulator](https://steamcommunity.com/app/286160) : [Boucaniers, le jeu-vidéo](https://steamcommunity.com/sharedfiles/filedetails/?id=2347203900&){: .btn .btn--warning}
+
 Découvre tous les jours un dessin de pirate par Vincent Tellier sur sa page : [Instagram ](https://www.instagram.com/vinzjb/){: .btn .btn--warning}
 {: .notice} 
 {: style="text-align: center;"}

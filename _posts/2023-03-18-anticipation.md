@@ -28,6 +28,7 @@ Anticiper, c’est à la fois prévoir l’avenir, imaginer le futur, et écrire
 {: .align-caption}
 
 Le tableau qu’il nous invite à observer nous rappelle notre quotidien bien qu’il soit totalement exotique. Il nous permet alors de poser un regard neuf sur notre vie, d'où peuvent naître des critiques, des créations et entraîner des changements.
+
 Je voudrais vous présenter trois aspects que l’on peut déceler chez mes écrivains d’anticipation favoris, trois facettes qui ne sont ni contradictoires, ni exclusives, et qui peuvent cohabiter ou vivre seules.
 
 ## Le critique

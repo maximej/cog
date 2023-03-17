@@ -21,7 +21,7 @@ header:
 
 ---
 
-*Laissez-moi vous raconter la grande histoire d'Internet ...*
+*Laissez-moi vous raconter la grande histoire d'Internet ...* En 1956 le premier **câble transatlantique** téléphonique est installé, c'est TAT. En 1967, trois plans, du MIT, du NPL et de RAND corp. prévoient de relier des réseaux d'ordinateurs entre eux à des fins **d'échanges de données**.
 
 ## Au commencement ... 
 

@@ -11,6 +11,8 @@ header:
 
 ---
 
+Toon Party est un jeu de rôle narratif avec une mécanique simple, dans un mélange d’univers humoristiques, issus de la culture populaire, et partagés par tous. Il se joue dans une ville imaginaire, située dans une réalité parallèle à la nôtre, qui évolue hors du temps, de l’espace et des principes physiques du monde des humains.
+
 ## Les actus
 
 Retrouvez une nouvelle version de Toon Party au festival [Jeux & Cie le 10 - 11 - 12](https://www.facebook.com/Jeux.et.Cie.Epinal/) mars 2023 !
@@ -20,8 +22,6 @@ Retrouvez une nouvelle version de Toon Party au festival [Jeux & Cie le 10 - 11 
 ## Toon Party - le nouveau jeu de rôle dans l'univers du cartoon
 
 Une partie dure 2 heures pour 2 à 5 joueurs à partir de 10 ans. Cela comprend la création de personnage avec une introduction de 30 min, puis une partie jeu de rôle de 1h30.
-
-Toon Party est un jeu de rôle narrativiste avec une mécanique simple, dans un mélange d’univers humoristiques, issus de la culture populaire, et partagés par tous. Il se joue dans une ville imaginaire, située dans une réalité parallèle à la nôtre, qui évolue hors du temps, de l’espace et des principes physiques du monde des humains.
 
 Les joueurs incarnent un Toon, un personnage fictif issu de l’histoire des dessins animés. Il seront chargés d’une mission absurde qui leur fera traverser des péripéties dans différents lieux de la ville et ils devront dépasser des épreuves à la façon surréalistes des personnages illustrés.
 
