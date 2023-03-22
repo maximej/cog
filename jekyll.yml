@@ -3,7 +3,7 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   schedule:
     - cron: "50 13 * * *"
-  workflow_dispatch: true
+  workflow_dispatch:
 
 jobs:
   build_and_deploy:
@@ -23,6 +23,6 @@ jobs:
       - uses: jeffreytse/jekyll-deploy-action@v0.3.1
         with:
           provider: 'github'
-          token: ${{ secrets.PAGES_ACCESS_TOKEN }} 
+          token: ${{ secrets.GH_ACTIONS_TOKEN }} 
           branch: 'gh-pages'
-          cname: 'www.lecog.fr'
+          cname: ''

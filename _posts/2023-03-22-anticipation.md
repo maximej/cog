@@ -1,6 +1,7 @@
 ---
 title: "Anticipation"
 layout: single
+date: 2023-03-22 13:00 +0000
 categories:
   - Numerique 
   - Ludique
