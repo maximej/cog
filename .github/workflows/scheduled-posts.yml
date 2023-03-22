@@ -3,7 +3,7 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   schedule:
     - cron: "50 13 * * *"
-  workflow_dispatch: true
+  workflow_dispatch: 
 
 jobs:
   build_and_deploy:
