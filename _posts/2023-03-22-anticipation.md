@@ -16,6 +16,7 @@ author : Max
 toc: true
 toc_label: "Anticipation"
 toc_icon: "cog"
+toc_sticky: true
 description : Anticiper, c’est à la fois prévoir l’avenir, imaginer le futur, et écrire le présent. Quand l’artiste nous offre sa vision des temps qui viennent, il nous donne aussi une critique de son monde.
 ---
 

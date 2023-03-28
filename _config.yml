@@ -280,6 +280,16 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  jeux:
+    output: true
+    permalink: /:collection/:path/
+    collections_dir: jeux
+    creation: true
+    creator: true
+    editor: true
+    sort_by: title
+
 
 # Defaults
 defaults:
@@ -295,6 +305,17 @@ defaults:
       share: true
       related: true
       show_date: true
-
+  # _jeux
+  - scope:
+      type: jeux
+    values:
+      layout: jeux
+      author_profile: false
+      share: true
+      sidebar:
+        nav: "ludo"
+      toc: true
+      toc_sticky: true
+      toc_icon: "tag"
 
 

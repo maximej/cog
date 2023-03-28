@@ -13,7 +13,7 @@ header:
 toc: true
 toc_label: "Histoire d'Internet"
 toc_icon: "cog"
-
+toc_sticky: true
 author_profile: true
 author : Max
 header:

@@ -17,6 +17,7 @@ author : Rozetta
 toc: true
 toc_label: "Hyperphoto"
 toc_icon: "cog"
+toc_sticky: true
 description: Découvrez l’hyperphoto et les œuvres de JF Rauzier, Cássio Vasconcellos et Yang Yongliang, des images monumentales composées d’une infinité de détails.
 ---
 *Découvrez l’hyperphoto et les œuvres de JF Rauzier, Cássio Vasconcellos et Yang Yongliang, des images monumentales composées d’une infinité de détails.*
@@ -83,7 +84,7 @@ Pour créer cette images d’aéroport fictif, il lui a fallu 1 an, 800 heures d
 
 ## Le monde est un chaos organisé
 
-Les œuvres de ses trois photographes se regardent en deux temps : avec du recul pour apprécier la composition maîtrisée, au plus près pour examiner la prolifération des détails et se perdre dans leur confusion. Ainsi, ces trois artistes représentent le monde avec sa complexité et ses contradictions : à la fois unifié et fragmenté, homogène et pluriel. Le monde tel un chaos organisé.
+Les œuvres de ces trois photographes se regardent en deux temps : avec du recul pour apprécier la composition maîtrisée, au plus près pour examiner la prolifération des détails et se perdre dans leur confusion. Ainsi, ces trois artistes représentent le monde avec sa complexité et ses contradictions : à la fois unifié et fragmenté, homogène et pluriel. Le monde tel un chaos organisé.
 
 ![styled-image](/assets/images/hyperphoto/VASCONCELLOS expo.jpg "VASCONCELLOS4"){: .align-center style="width: 560;"}
 *© Une œuvre de Vasconcellos en taille originale, [Cássio Vasconcellos](https://www.cassiovasconcellos.com/)*

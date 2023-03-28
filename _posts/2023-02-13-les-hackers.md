@@ -19,6 +19,7 @@ author : Max
 toc: true
 toc_label: "Les Hackers"
 toc_icon: "cog"
+toc_sticky: true
 description: Le "hack" est un terme obscur dont les sens s’étendent telles des racines dans les profondeurs de l’informatique. Il dérive d'un verbe qui est apparu pour la première fois en anglais vers 1200, signifiant "couper avec des coups violents d'une manière irrégulière ou aléatoire", en français on pourrait dire “hacher”.
 ---
 
@@ -432,7 +433,7 @@ On trouve comme oeuvre cybepunk :
 
 À l'origine de tous les sous-genres punk de la fiction spéculative (steampunk, radiumpunk, solarpunk …), le cyberpunk sert cependant à la fois de critique et d'avertissement contre **la menace des conglomérats puissants** et de l'autorité.
 
-Les histoires basées dans un cadre cyberpunk suivent généralement des antihéros rebelles qui se battent contre le pouvoir imposé par les méga conglomérats qui ont remplacé les gouvernements par le contrôle capitaliste. Les fictions cyberpunk sont politiques par nature et contiennent des commentaires profonds sur des sujets tels que [**l'intelligence artificielle et le transhumanisme**](/assets/documents/SyndicatsProphetiesv1.pdf). La lutte entre le bien et le mal est centrée autour de l’utilisation d’une technologie, et de sa [libération par la figure du hacker](https://c4magazine.org/2012/04/13/cyber-exploration-nouveaux-territoires/).
+Les histoires basées dans un cadre cyberpunk suivent généralement des antihéros rebelles qui se battent contre le pouvoir imposé par les méga corporations qui ont remplacé les gouvernements par le contrôle capitaliste. Les fictions cyberpunk sont politiques par nature et contiennent des commentaires profonds sur des sujets tels que [**l'intelligence artificielle et le transhumanisme**](/assets/documents/SyndicatsProphetiesv1.pdf). La lutte entre le bien et le mal est centrée autour de l’utilisation d’une technologie, et de sa [libération par la figure du hacker](https://c4magazine.org/2012/04/13/cyber-exploration-nouveaux-territoires/).
 
 ![styled-image](/assets/images/hacking/incal.jpg "Incal"){: .align-center "}
 *L'incal, de Alexandro Jodorowsky & Moebius, 1981*

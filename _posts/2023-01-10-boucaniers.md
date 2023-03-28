@@ -10,8 +10,10 @@ tags:
   - Jeu de société
 header:
   teaser: /assets/images/jeux/Boucaniers.png
+toc: true
 toc_label: "Boucaniers"
 toc_icon: "cog"
+toc_sticky: true
 description: Boucaniers, jeu de voiliers, de trésor et d’aventure ! Jouez chacun un capitaine de navire. Devenez maître de la stratégie pour déterrer le trésor d’Armand le baratineur, caché dans une île de l'archipel, ou amasser votre propre pactole par des victoires et une contrebande sanguinaire. 
 ---
 

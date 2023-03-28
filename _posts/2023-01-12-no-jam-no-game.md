@@ -4,6 +4,7 @@ layout: single
 toc: true
 toc_label: "Ateliers d'initiation au game design sans code"
 toc_icon: "cog"
+toc_sticky: true
 author_profile: true
 categories:
   - Numerique 

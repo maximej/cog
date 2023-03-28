@@ -13,7 +13,6 @@ header:
   teaser: /assets/images/Couv Dirty643.jpg
 author_profile : true
 author : Auri0n
-
 ---
 *L'image animée en vidéo analogue est décomposée à l’émission et recomposée à la réception. La transmission des images s’effectue en convertissant à l’émission une image optique en signaux électriques proportionnels à la brillance de chacun des points constituant l’image et en les transmettant les uns après les autres sur un canal unique.*
 

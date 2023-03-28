@@ -16,6 +16,7 @@ author : Rozetta
 toc: true
 toc_label: "Photographie virtuelle"
 toc_icon: "cog"
+toc_sticky: true
 description: Si la photographie capte historiquement le réel, les photographes peuvent de plus en plus s’en passer, au profit de leur écran et des mondes virtuels. L’essor de la photographie virtuelle pose alors la question des limites et de la définition de l’art photographique. Décryptage.
 ---
 
