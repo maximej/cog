@@ -7,7 +7,7 @@ tags:
   - Jeu
   - Jeu de rôle
 header:
-  teaser: /assets/images/HeaderToonParty.jpg
+  teaser: /assets/images/toonParty/HeaderToonParty.jpg
 
 ---
 
