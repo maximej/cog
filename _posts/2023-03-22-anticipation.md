@@ -16,6 +16,7 @@ author : Max
 toc: true
 toc_label: "Anticipation"
 toc_icon: "cog"
+description : Anticiper, c’est à la fois prévoir l’avenir, imaginer le futur, et écrire le présent. Quand l’artiste nous offre sa vision des temps qui viennent, il nous donne aussi une critique de son monde.
 ---
 
 *L'anticipation est un sous-genre de la science-fiction qui propose une vision particulière de l'avenir. On la retrouve en littérature, en cinéma, en jeu-vidéo, dans les jeux de rôles, en jeux de société et parfois dans l'art numérique.*

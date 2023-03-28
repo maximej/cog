@@ -15,6 +15,7 @@ author : Rozetta
 toc: true
 toc_label: "Le Glitch Art"
 toc_icon: "cog"
+description: À l’heure du règne de l’image photoshopée, parfaite, lisse et sans aspérité, la tendance au glitch art vient nous rappeler que l’erreur est belle. Vive la corruption des images !
 ---
 
 *À l’heure du règne de l’image photoshopée, parfaite, lisse et sans aspérité, la tendance au glitch art vient nous rappeler que l’erreur est belle. Vive la corruption des images !*

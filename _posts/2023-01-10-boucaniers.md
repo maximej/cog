@@ -12,6 +12,7 @@ header:
   teaser: /assets/images/jeux/Boucaniers.png
 toc_label: "Boucaniers"
 toc_icon: "cog"
+description: Boucaniers, jeu de voiliers, de trésor et d’aventure ! Jouez chacun un capitaine de navire. Devenez maître de la stratégie pour déterrer le trésor d’Armand le baratineur, caché dans une île de l'archipel, ou amasser votre propre pactole par des victoires et une contrebande sanguinaire. 
 ---
 
 Boucaniers, jeu de voiliers, de trésor et d’aventure ! Jouez chacun un capitaine de navire. Devenez maître de la stratégie pour déterrer le trésor d’Armand le baratineur, caché dans une île de l'archipel, ou amasser votre propre pactole par des victoires et une contrebande sanguinaire. 

@@ -13,6 +13,7 @@ tags:
   - Histoire
 header:
   teaser: /assets/images/atelier/hands.jpg
+description: Dans un monde où la réalité dépasse parfois la fiction, saurez-vous dépasser la réalité ? Dans cet atelier d’écriture, nous vous proposons de produire votre propre récit de science-fiction. Venez partager et mettre en récit les savoirs scientifiques qui vous animent !
 ---
 
 Dans un monde où la réalité dépasse parfois la fiction, saurez-vous dépasser la réalité ? Dans [cet atelier d’écriture](https://lhistoireavenir.eu/evt/410/), nous vous proposons de produire votre propre récit de science-fiction. Venez partager et mettre en récit les savoirs scientifiques qui vous animent !

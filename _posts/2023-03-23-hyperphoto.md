@@ -17,9 +17,7 @@ author : Rozetta
 toc: true
 toc_label: "Hyperphoto"
 toc_icon: "cog"
-
-
-
+description: Découvrez l’hyperphoto et les œuvres de JF Rauzier, Cássio Vasconcellos et Yang Yongliang, des images monumentales composées d’une infinité de détails.
 ---
 *Découvrez l’hyperphoto et les œuvres de JF Rauzier, Cássio Vasconcellos et Yang Yongliang, des images monumentales composées d’une infinité de détails.*
 

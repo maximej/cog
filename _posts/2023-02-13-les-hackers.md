@@ -19,6 +19,7 @@ author : Max
 toc: true
 toc_label: "Les Hackers"
 toc_icon: "cog"
+description: Le "hack" est un terme obscur dont les sens s’étendent telles des racines dans les profondeurs de l’informatique. Il dérive d'un verbe qui est apparu pour la première fois en anglais vers 1200, signifiant "couper avec des coups violents d'une manière irrégulière ou aléatoire", en français on pourrait dire “hacher”.
 ---
 
 *Le "hack" est un terme obscur dont les sens s’étendent telles des racines dans les profondeurs de l’informatique. Il dérive d'un verbe qui est apparu pour la première fois en anglais vers 1200, signifiant "couper avec des coups violents d'une manière irrégulière ou aléatoire", en français on pourrait dire “hacher”.*
