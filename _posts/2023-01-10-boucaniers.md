@@ -17,7 +17,8 @@ toc_icon: "cog"
 Boucaniers, jeu de voiliers, de trésor et d’aventure ! Jouez chacun un capitaine de navire. Devenez maître de la stratégie pour déterrer le trésor d’Armand le baratineur, caché dans une île de l'archipel, ou amasser votre propre pactole par des victoires et une contrebande sanguinaire. 
 
 Il n’y a pas de tour par tour ! Les mouvements choisis par les joueurs sont dévoilés et tout le monde joue simultanément. Ici, on prend des risques sur un principe similaire aux échecs, où les joueurs ont toutes les informations et seul ce qu’auront décidé les adversaires fera la surprise.
-Pour une fois, un jeu de pirate qui sent la mer, où la tension du combat est palpable, où l’on a envie de crier à l’abordage à chaque tour.
+
+Voguez sur l'archipel truffé de cannibales, de gouverneurs corrompus et de rumeurs, ou l'on peut recruter l'équipage, armer son bateau, piller et commercer en prenant garde aux navires de la compagnie des Indes. Pour une fois, un jeu de pirate qui sent la mer, où la tension du combat est palpable, où l’on a envie de crier à l’abordage à chaque tour.
 
 ## “Boucaniers, Le magot d’Armand le baratineur"
 *un jeu de Vincent Tellier & Thierry Durand*
