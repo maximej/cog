@@ -1,11 +1,19 @@
 ---
 title: "Toon Party"
 layout: single
+author_profile: true
+author : Max
+sidebar:
+  nav: "ludo"
 categories:
   - Ludique
 tags:
   - Jeu
   - Jeu de rôle
+toc_label: "Toon Party"
+toc_icon: "tag"
+toc_sticky: true
+toc: true
 header:
   teaser: /assets/images/toonParty/HeaderToonParty.jpg
 description: Toon Party est un jeu de rôle narratif avec une mécanique simple, dans un mélange d’univers humoristiques, issus de la culture populaire, et partagés par tous. Il se joue dans une ville imaginaire, située dans une réalité parallèle à la nôtre, qui évolue hors du temps, de l’espace et des principes physiques du monde des humains.

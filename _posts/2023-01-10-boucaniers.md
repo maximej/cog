@@ -3,6 +3,8 @@ title: "Boucaniers"
 layout: single
 author_profile: true
 author : Vinz
+sidebar:
+  nav: "ludo"
 categories:
   - Ludique
 tags:
@@ -12,7 +14,7 @@ header:
   teaser: /assets/images/jeux/Boucaniers.png
 toc: true
 toc_label: "Boucaniers"
-toc_icon: "cog"
+toc_icon: "tag"
 toc_sticky: true
 description: Boucaniers, jeu de voiliers, de trésor et d’aventure ! Jouez chacun un capitaine de navire. Devenez maître de la stratégie pour déterrer le trésor d’Armand le baratineur, caché dans une île de l'archipel, ou amasser votre propre pactole par des victoires et une contrebande sanguinaire. 
 ---
@@ -20,6 +22,10 @@ description: Boucaniers, jeu de voiliers, de trésor et d’aventure ! Jouez cha
 Boucaniers, jeu de voiliers, de trésor et d’aventure ! Jouez chacun un capitaine de navire. Devenez maître de la stratégie pour déterrer le trésor d’Armand le baratineur, caché dans une île de l'archipel, ou amasser votre propre pactole par des victoires et une contrebande sanguinaire. 
 
 Il n’y a pas de tour par tour ! Les mouvements choisis par les joueurs sont dévoilés et tout le monde joue simultanément. Ici, on prend des risques sur un principe similaire aux échecs, où les joueurs ont toutes les informations et seul ce qu’auront décidé les adversaires fera la surprise.
+
+![styled-image](/assets/images/jeux/BoucaniersKlaudiaEpinal23_6.jpg "Boucaniers"){: .align-center style="width: 600;"}
+*Boucaniers à [Jeux et Cie 2023](https://jeux-et-cie.fr/)*
+{: .align-caption}
 
 Voguez sur l'archipel truffé de cannibales, de gouverneurs corrompus et de rumeurs, ou l'on peut recruter l'équipage, armer son bateau, piller et commercer en prenant garde aux navires de la compagnie des Indes. Pour une fois, un jeu de pirate qui sent la mer, où la tension du combat est palpable, où l’on a envie de crier à l’abordage à chaque tour.
 
@@ -71,7 +77,7 @@ Et si vos yeux de tous les détails sont curieux\
 Voici avec ce lien les [règles de ce jeu](https://drive.google.com/file/d/15Bbf5UjPHZma1LaqsoIpHrHpwo1w2Dk3/view?usp=sharing)
 
 
-## Objectif :
+## Objectif
 Partez sur les mers à la recherche du trésor d’Armand le baratineur pour le déterrer avant les
 autres ou accumulez 25 pièces d’or. Manoeuvrez votre navire prudemment, recueillez les indices qui mènent au trésor et préparez-vous au combat !
 
@@ -85,7 +91,7 @@ Armand le baratineur, pilier de bar au Perroquet Bavard, aime raconter ses péri
 *Quelle sera votre stratégie ?*
 {: .align-caption}
 
-## Îles :
+## Îles
 
 ![styled-image](/assets/images/jeux/BoucaniersKlaudiaEpinal23_1.jpg "Boucaniers"){: .align-center style="width: 600;"}
 *Les différentes îles sont placées selon un nouvel arrangement à chaque partie.*
@@ -116,7 +122,7 @@ rhum et canne à sucre voulues contre 2 pièces chacune.
 
 <iframe src="https://www.instagram.com/p/Cn9fk-ZMMC2/embed" width="600" height="580" frameborder="0"> </iframe>
 
-## Matériel :
+## Matériel
 
 ![styled-image](/assets/images/jeux/BoucaniersKlaudiaEpinal23_2.jpg "Boucaniers"){: .align-center style="width: 600;"}
 *Un jeu riche en accessoires*
@@ -132,11 +138,7 @@ rhum et canne à sucre voulues contre 2 pièces chacune.
 *5 disques de déplacement ou "Compas". 29 cartes Boucaniers et 6 affranchis.*
 {: .align-caption}
 
-## Bateaux :
-
-![styled-image](/assets/images/jeux/BoucaniersKlaudiaEpinal23_6.jpg "Boucaniers"){: .align-center style="width: 600;"}
-*Boucaniers à [Jeux et Cie 2023](https://jeux-et-cie.fr/)*
-{: .align-caption}
+## Bateaux
 
 Les bateaux possèdent trois attributs : les voiles (la distance maximale de déplacement), des canons (les points de coque arrachés à l’ennemi à chaque tir), une coque (le nombre de points de vie face aux canons) et un équipage (nombre maximum de boucaniers embarqués).
 Cotre , Chébec, Ketch, Caravelle, Goélette, Corvette, Lougre, Frégate, Galion, Jonque
@@ -144,6 +146,10 @@ Cotre , Chébec, Ketch, Caravelle, Goélette, Corvette, Lougre, Frégate, Galion
 <img src="/assets/images/Boucaniers.png" alt="">
 
 ## Boucaniers à recruter
+
+![styled-image](/assets/images/jeux/BoucaniersKlaudiaEpinal23_7.jpg "Boucaniers"){: .align-center style="width: 600;"}
+*Boucaniers à [Jeux et Cie 2023](https://jeux-et-cie.fr/)*
+{: .align-caption}
 
 ♦ Harponneur : ACTION, au prochain tour, engage obligatoirement l’abordage avec un ou plusieurs
 navires en un point du choix du joueur à distance de 1, sauf si un autre bateau est déjà au contact.
@@ -182,9 +188,7 @@ joueurs au prochain tour (ainsi après la Mutine).
 ♦ Vieux loup de mer : triple les effets des actions de capitaine (1 esclave pour 3 affranchis, 1 canne à
 sucre pour 3 points de coque et 1 rhum pour 3 de voiles).
 
-![styled-image](/assets/images/jeux/BoucaniersKlaudiaEpinal23_7.jpg "Boucaniers"){: .align-center style="width: 600;"}
-*Boucaniers à [Jeux et Cie 2023](https://jeux-et-cie.fr/)*
-{: .align-caption}
+
 
 Photos par [Klaudia Kaczmarczyk](https://klaudiakaczmarczyk.com/)
 {: .btn .btn--success} 
