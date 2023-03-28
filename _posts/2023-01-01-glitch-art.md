@@ -7,6 +7,7 @@ tags:
   - Numérique
   - Art
   - Glitch
+  - Photo
 header:
   teaser: /assets/images/glitch/Mathieu-St-Pierre_web20.jpg
 author_profile : true

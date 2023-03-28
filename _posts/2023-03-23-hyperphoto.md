@@ -28,7 +28,7 @@ toc_icon: "cog"
 Grâce à un travail de longue haleine et aux progrès du numérique, [Jean-François Rauzier](www.rauzier-hyperphoto.com), [Cássio Vasconcellos](https://www.cassiovasconcellos.com/) et [Yang Yongliang](https://www.yangyongliang.com/), trois photographes atypiques, retranscrivent une vision inquantifiable de notre monde.
 
 ![styled-image](/assets/images/hyperphoto/VASCONCELLOS - banniere.jpg "VASCONCELLOS5"){: .align-center style="width: 560;"}
-*©[Cássio Vasconcellos](https://www.cassiovasconcellos.com/)*
+*© [Cássio Vasconcellos](https://www.cassiovasconcellos.com/)*
 {: .align-caption}
 
 ## L’hyperphoto : une mise en abyme de la photographie
@@ -88,5 +88,5 @@ Pour créer cette images d’aéroport fictif, il lui a fallu 1 an, 800 heures d
 Les œuvres de ses trois photographes se regardent en deux temps : avec du recul pour apprécier la composition maîtrisée, au plus près pour examiner la prolifération des détails et se perdre dans leur confusion. Ainsi, ces trois artistes représentent le monde avec sa complexité et ses contradictions : à la fois unifié et fragmenté, homogène et pluriel. Le monde tel un chaos organisé.
 
 ![styled-image](/assets/images/hyperphoto/VASCONCELLOS expo.jpg "VASCONCELLOS4"){: .align-center style="width: 560;"}
-*© Une œuvre de Vasconcellos en taille originale,[Cássio Vasconcellos](https://www.cassiovasconcellos.com/)*
+*© Une œuvre de Vasconcellos en taille originale, [Cássio Vasconcellos](https://www.cassiovasconcellos.com/)*
 {: .align-caption}

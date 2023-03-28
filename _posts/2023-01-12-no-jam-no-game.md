@@ -13,6 +13,7 @@ tags:
   - Jeu 
   - Tuto 
   - Jam
+  - Histoire
 header:
   teaser: /assets/images/COUV_LuxFelicis_play.jpg
   image : /assets/images/COUV_LuxFelicis_play.jpg

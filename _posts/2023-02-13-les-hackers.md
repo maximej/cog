@@ -145,7 +145,7 @@ Cette catégorie de hacker est née avec John Draper, alias Captain Crunch. La l
 ![styled-image](/assets/images/hacking/crunch.jpg "Crunch"){: .align-center "}
 {: .align-caption}
 
-Le phreaking s’est répandu dans les années 70. Les phreaks passaient une grande partie de leur temps libre à parcourir le réseau téléphonique en composant des numéros, écoutant des suites de tonalités, ou encore en lisant les rapports techniques des compagnies de téléphone. Pour les plus grands fans, cela pouvait aller jusqu’à fouiller les poubelles d’une compagnie. C’est ce genre de comportements extrêmes qui leur a valu d’être considéré comme des freaks, des "phone freaks", puis d’êtres baptisés phreaks. Avec toutes ces recherches, ils en sont venus à construire du matériel électronique pour les aider. 
+[Le phreaking](https://lundi.am/Prehistoire-du-Hacking) s’est répandu dans les années 70. Les phreaks passaient une grande partie de leur temps libre à parcourir le réseau téléphonique en composant des numéros, écoutant des suites de tonalités, ou encore en lisant les rapports techniques des compagnies de téléphone. Pour les plus grands fans, cela pouvait aller jusqu’à fouiller les poubelles d’une compagnie. C’est ce genre de comportements extrêmes qui leur a valu d’être considéré comme des freaks, des "phone freaks", puis d’êtres baptisés phreaks. Avec toutes ces recherches, ils en sont venus à construire du matériel électronique pour les aider. 
 
 ![styled-image](/assets/images/hacking/redbox.jpg "RedBox"){: .align-center "}
 *Schéma electronique d'une Red Box*
