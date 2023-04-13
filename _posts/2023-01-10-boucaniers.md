@@ -34,7 +34,7 @@ Voguez sur l'archipel truffé de cannibales, de gouverneurs corrompus et de rume
 
 Joue à Boucaniers sur [Tabletop Simulator](https://steamcommunity.com/app/286160) : [Boucaniers, le jeu-vidéo](https://steamcommunity.com/sharedfiles/filedetails/?id=2347203900&){: .btn .btn--warning}
 
-Découvre Boucaniers joué par les memebres du C.O.G :
+Découvre Boucaniers joué par les membres du C.O.G :
 
 <iframe width="600" height="315" src="https://www.youtube.com/embed/P7Rf7-XlByg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

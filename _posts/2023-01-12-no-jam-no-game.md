@@ -15,13 +15,14 @@ tags:
   - Tuto 
   - Jam
   - Histoire
+  - Atelier
 header:
   teaser: /assets/images/COUV_LuxFelicis_play.jpg
   image : /assets/images/COUV_LuxFelicis_play.jpg
 description: Afin de découvrir les différentes étapes de la fabrication d’un jeu vidéo, nous proposons cette série d’ateliers d’initiation au game design sans code. Elle permet de prendre en main différents outils, et de s'essayer à la conception de mécanique de jeu, de scénario, de visuels.
 ---
 
-Afin de découvrir les différentes étapes de la fabrication d’un jeu vidéo, nous proposons cette série d’ateliers d’initiation au game design sans code. Elle permet de prendre en main différents outils, et de s'essayer à la conception de mécanique de jeu, de scénario, de visuels. Après avoir suivi cette série de vidéo, vous êtes invités à les mettre en pratique le [3-5 fevrier 2023 lors de la Game Jam du C.O.G](/numerique/ludique/game-jam-de-pantin/) en créant un jeu, numérique ou non.
+Afin de découvrir les différentes étapes de la fabrication d’un jeu vidéo, nous proposons cette série d’ateliers d’initiation au game design sans code. Elle permet de prendre en main différents outils, et de s'essayer à la conception de mécanique de jeu, de scénario, de visuels. Après avoir suivi cette série de vidéo, vous êtes invités à les mettre en pratique le [3-5 fevrier 2023 lors de la Game Jam du C.O.G](/game-jam-de-pantin/) en créant un jeu, numérique ou non.
 
 [Rejoins nous sur Discord](https://discord.gg/mHatEsE3Hw){: .btn .btn--info}
 

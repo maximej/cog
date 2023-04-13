@@ -6,8 +6,8 @@ main:
     url: /categories/numerique/
   - title: "Ludothèque"
     url: /ludotheque/
-  - title: "Ressources"
-    url: /ressources/
+  - title: "Boutique"
+    url: https://boutique.lecog.fr/
   - title: "Articles"
     url: /tags/
   - title: "A propos"
@@ -17,7 +17,6 @@ ludo:
   - title: "Ludotheque"
     url: /ludotheque/
   - title: "Jeux de Rôles"
-    url: /jdr/
     children:
       - title: "Donjon Clef en Main"
         url: /jeux/donjon-clef-en-main/
@@ -27,8 +26,11 @@ ludo:
         url: /jeux/l-as-des-as/
       - title: "Manga Boyz"
         url: /jeux/manga-boyz/
+      - title: "MERP"
+        url: /jeux/merp/
+      - title: "Star Wars"
+        url: /jeux/star-wars/
   - title: "Jeux de plateau"
-    url: /plateau/
     children:
       - title: "Les Corsaires"
         url: /jeux/les-corsaires/
@@ -37,16 +39,16 @@ ludo:
       - title: "Soviet Sytem"
         url: /jeux/soviet-system/
   - title: "Jeux vidéo rétro"
-    url: /retro/
     children:
       - title: "Nintendo 64"
-        url: /numerique/ludique/analog-digital/
+        url: /analog-digital/
       - title: "Super Nintendo"
-        url: /numerique/ludique/analog-digital/
+        url: /analog-digital/
   - title: "Jeux du C.O.G"
-    url: /cog/
     children:
       - title: "Boucaniers"
-        url: /ludique/boucaniers/
+        url: /boucaniers/
+      - title: "Europol"
+        url: /europol/
       - title: "Toon Party"
-        url: /ludique/toon-party/
+        url: /toon-party/

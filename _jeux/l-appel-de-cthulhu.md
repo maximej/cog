@@ -5,7 +5,14 @@ creator: "traduit par Jean Balczesak"
 creation: "1990"
 editor:  "Descartes Éditeur"
 editor_link: "https://fr.wikipedia.org/wiki/Descartes_%C3%89diteur"
+editor_page: editor/descartes.html
+header:
+  teaser: /assets/images/ludotheque/Cthulhu_Jeu-5.jpg
 ---
+
+L'Appel de Cthulhu, est un grand classique du jeu de rôles. Tiré des romans d'épouvante de l'auteur américain H.P. Lovecraft (1890-1937), il décrit un monde du début du siècle ou rien n'est ce qu'il paraît, et où des créatures monstrueuses et des divinités oubliées attendent bien cachées qu'un inconscient les tire de leur sommeil.
+
+## Le Jeu
 
 Ce livre de base est la dernière édition du jeu officiellement approuvée par Sandy Petersen. Il regroupe des informations issues de la boîte de base de la deuxième édition, ainsi que du Supplément de Cthulhu : les Recherches de Phileus P. Sadowsky, prisons, nouveaux monstres, scénarios, etc. et des Fragments d'Epouvante : grimoire, nouveaux monstres...
 
@@ -15,5 +22,25 @@ Une quarantaine de pages sont consacrées au mythe de Cthulhu et à tout le pant
 
 Enfin, des conseils de jeu sont fournis pour le Gardien des Arcanes (meneur de jeu). C'est après ce chapitre que cette édition diverge de la deuxième édition.
 
+## Sources
+
+<figure class="half">
+
+  <img src="/assets/images/ludotheque/Cthulhu_Jeu-1.jpg">
+  <img src="/assets/images/ludotheque/Cthulhu_Jeu-4.jpg">
+  <img src="/assets/images/ludotheque/Cthulhu_Jeu-2.jpg">
+  <img src="/assets/images/ludotheque/Cthulhu_Jeu-3.jpg">
+  <img src="/assets/images/ludotheque/Cthulhu_Jeu-5.jpg">
+  <img src="/assets/images/ludotheque/Cthulhu_Jeu-6.jpg">
+  <img src="/assets/images/ludotheque/Cthulhu_Jeu-7.jpg">
+  <img src="/assets/images/ludotheque/Cthulhu_Jeu-8.jpg">
+
+
+</figure>
+
+---
+
 [Source](https://www.legrog.org/jeux/appel-de-cthulhu/appel-de-cthulhu-4eme-ed-fr)
 {: .btn .btn--success} 
+
+---

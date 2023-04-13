@@ -35,7 +35,7 @@ Analog video instalation "Dirty64" by Lux Felicis
 
 <iframe src="https://www.instagram.com/luxfelicis/embed" width="560" height="580" frameborder="0"> </iframe>
 
-<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/l3q2DjYkmGHJURUha" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="/numerique/glitch-art/">
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/l3q2DjYkmGHJURUha" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="/glitch-art/">
 La tête de lecture du magnetoscope fait apparaitre du bruit magnetique sur l'image.</a></p>
 
 [Dirty64 Retrogaming](https://www.youtube.com/playlist?list=PLsg_cg9K_TfUx74HVaGYrb2ktj8yUFPQx)

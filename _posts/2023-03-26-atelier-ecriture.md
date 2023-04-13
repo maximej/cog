@@ -39,6 +39,8 @@ Du 24 au 28 mai, la 6e édition du festival proposera, dans 30 lieux, plus de 80
 *Découvre le festival ["L'Histoire à Venir"](https://lhistoireavenir.eu/)*
 {: .align-caption}
 
+## Bilans et projets
 
+Différents outils ont été mis en place lors de ces ateliers dans le cadre du Master de Prospective au C.N.A.M, et ils seront aussi mis en place lors de la retransmission de la [N.U.I.E](/la-nuie/). Découvrez [Le voyage du Héros](/no-jam-no-game/#ble-voyage-du-héros), et les [Archétypes de personnages](/no-jam-no-game/#cles-archétypes-de-personnages) ...
 
 

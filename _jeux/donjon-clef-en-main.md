@@ -7,6 +7,8 @@ editor:  "Delcourt"
 editor_link: "https://www.editions-delcourt.fr/"
 sidebar:
   nav: "ludo"
+header:
+  teaser: /assets/images/ludotheque/Donjon_Jeu-11.jpg
 ---
 
 Donjon Clefs en Mains est l'adaptation en jeu de rôle de la bande dessinée "Donjon" de Joann Sfar et Lewis Trondheim, éditée par Delcourt. Comme le nom l'indique, le personnage central de la BD est un Donjon, un labyrinthe gigantesque sur plusieurs niveaux, de pièges, de monstres et de trésors. Son Gardien a toutes les raisons d'être fier : son domaine, géré comme une entreprise commerciale, draine des aventuriers venus de toutes les contrées de Terra Amata, qui croyant pouvoir trouver gloire et fortune, viennent en fait enrichir le Donjon et son propriétaire.
@@ -22,6 +24,9 @@ A ces trois séries principales, on peut adjoindre "Donjon Parade" qui raconte d
 
 A la lecture de la série, on s'aperçoit que "Donjon", dans sa globalité, pratique un humour décalé, plus proche du second degré que de la parodie, et regorge de clins d'oeil à destination des rôlistes. Cela, et le monde que construit la série à mesure que de nouveaux albums paraissent, prédisposait "Donjon" à être adapté en jeu de rôle.
 
+![styled-image](/assets/images/ludotheque/Donjon_Jeu-9.jpg "Donjon"){: .align-center style="width: 560;"}
+
+
 # Le Jeu de rôle
 
 "Donjon Clefs en Mains" est donc le prolongement ludique de la BD. Les différents volumes et séries sont présentés, disséqués, de manière à permettre au MJ d'exploiter les bandes dessinées comme de véritables "suppléments" au jeu. Cette approche, ainsi que l'ambiance particulière de la série, rend le jeu difficile d'accès à ceux qui ne connaîtraient pas "Donjon".
@@ -33,3 +38,14 @@ Ce score est modifié éventuellement par un bonus de description, quand le joue
 
 [Source](https://www.legrog.org/jeux/donjon-clefs-en-mains)
 {: .btn .btn--success} 
+
+
+<figure class="third">
+
+  <img src="/assets/images/ludotheque/Donjon_Jeu-11.jpg">
+  <img src="/assets/images/ludotheque/Donjon_Jeu-11.jpg">
+  <img src="/assets/images/ludotheque/Donjon_Jeu-12.jpg">
+
+
+
+</figure>

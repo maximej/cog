@@ -1,6 +1,5 @@
 ---
 title: "L'As des As"
-permalink: /jeux/l-as-des-as/
 creator: "Alfred Leonardi traduite en français par Gildas Sagot"
 creation: "1986"
 editor:  "Gallimard"

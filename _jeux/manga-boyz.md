@@ -5,6 +5,7 @@ creator: "Gabriel Féraud"
 creation: "2008"
 editor:  "Le Grimoire"
 editor_link: "https://legrimoire.net/"
+editor_page: editor/grimoire.html
 sidebar:
   nav: "ludo"
 ---
