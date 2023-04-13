@@ -149,9 +149,9 @@ footer:
     - label: "Discord"
       icon: "fab fa-brands fa-discord"
       url: "https://discord.gg/mHatEsE3Hw"
-    - label: "Linktr.ee"
+    - label: "Boutique"
       icon: "fab fa-brands fa-sourcetree"
-      url: "https://linktr.ee/cogalactique"
+      url: "https://boutique.lecog.fr/"
 
 
 # Reading Files
