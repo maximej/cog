@@ -62,6 +62,8 @@ Outil d'écriture de fiction interactive, à télécharger ou à utiliser dans l
 
 [Haïkus](/assets/documents/Ha_kus.html) / fait avec [Twine](http://twinery.org/) en 30min
 
+[Haïkus](/assets/documents/TraindePurgatoire.html) / fait avec [Twine](http://twinery.org/) en 2 jours
+
 <iframe src="/assets/documents/Ha_kus.html" width="636" height="520" frameborder="0" id="haikus" title="Haikus"></iframe>
 
 [Poèmes Zen, le Haïku](https://www.temple-du-haiku.fr/)
