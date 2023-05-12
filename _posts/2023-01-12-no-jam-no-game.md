@@ -62,7 +62,7 @@ Outil d'écriture de fiction interactive, à télécharger ou à utiliser dans l
 
 [Haïkus](/assets/documents/Ha_kus.html) / fait avec [Twine](http://twinery.org/) en 30min
 
-[Haïkus](/assets/documents/TraindePurgatoire.html) / fait avec [Twine](http://twinery.org/) en 2 jours
+[La voie du professeur Echo](/assets/documents/LavoieduprofesseurEcho.html) / fait avec [Twine](http://twinery.org/) en 3jours pour la [Sens dessus dessous](https://itch.io/jam/la-sens-dessus-dessous-2023)
 
 <iframe src="/assets/documents/Ha_kus.html" width="636" height="520" frameborder="0" id="haikus" title="Haikus"></iframe>
 
