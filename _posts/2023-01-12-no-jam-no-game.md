@@ -62,11 +62,14 @@ Outil d'écriture de fiction interactive, à télécharger ou à utiliser dans l
 
 [Haïkus](/assets/documents/Ha_kus.html) / fait avec [Twine](http://twinery.org/) en 30min
 
-[La voie du professeur Echo](/assets/documents/LavoieduprofesseurEcho.html) / fait avec [Twine](http://twinery.org/) en 3jours pour la [Sens dessus dessous](https://itch.io/jam/la-sens-dessus-dessous-2023)
-
 <iframe src="/assets/documents/Ha_kus.html" width="636" height="520" frameborder="0" id="haikus" title="Haikus"></iframe>
 
 [Poèmes Zen, le Haïku](https://www.temple-du-haiku.fr/)
+
+[La voie du professeur Echo](/assets/documents/LavoieduprofesseurEcho.html) / fait avec [Twine](http://twinery.org/) en 3jours pour la [Sens dessus dessous](https://itch.io/jam/la-sens-dessus-dessous-2023)
+
+<iframe src="https://itch.io/embed/2064980" width="552" height="167" frameborder="0"><a href="https://maximejr.itch.io/echo">La voie du professeur Echo by maximejr</a></iframe>
+
 ### e/Trois game engine gratuits
 
 [Unity](https://unity.com/fr/download): Une série de tutoriels pour faire un jeu avec Unity : [Créer un jeu de survie avec Unity](https://www.youtube.com/watch?v=eTulYE72ixc)
